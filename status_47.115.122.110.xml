@@ -1,0 +1,1754 @@
+2020-12-01-15-28-45
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="100760" receivedBytesPerSecond="12595" receivedPacketsPerSecond="41" sentBitsPerSecond="614776" sentBytesPerSecond="76847" sentPacketsPerSecond="105" receivedBytesSinceStart="545457932545" receivedPacketsSinceStart="688316901" sentBytesSinceStart="1139446532455" sentPacketsSinceStart="1051209440" runningTimeInSeconds="7001991"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="14820" receivedSourcePacketsNum="371782" receivedRepairPacketsNum="39432" receivedBitsPerSecond="99197" sentBitsPerSecond="605241" receivedBytesInSession="285754242" sentBytesInSession="1141513793">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="108238" sentBitsPerSecond="628396" receivedBytesInSession="54245631" sentBytesInSession="185552262" isWeak="no" rttInMsec="686"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="3" receivedSourcePacketsNum="2" receivedRepairPacketsNum="0" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="120" sentBytesInSession="150">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="60" sentBytesInSession="54" isWeak="no" rttInMsec="87"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="60" sentBytesInSession="96" isWeak="no" rttInMsec="85"/>
+			</connections>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-28-55
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="86888" receivedBytesPerSecond="10861" receivedPacketsPerSecond="29" sentBitsPerSecond="539136" sentBytesPerSecond="67392" sentPacketsPerSecond="92" receivedBytesSinceStart="545458063050" receivedPacketsSinceStart="688317266" sentBytesSinceStart="1139447170247" sentPacketsSinceStart="1051211036" runningTimeInSeconds="7002002"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="14831" receivedSourcePacketsNum="372050" receivedRepairPacketsNum="39445" receivedBitsPerSecond="85354" sentBitsPerSecond="529619" receivedBytesInSession="285883813" sentBytesInSession="1142151500">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="91735" sentBitsPerSecond="549864" receivedBytesInSession="54375202" sentBytesInSession="186189041" isWeak="no" rttInMsec="703"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="14" receivedSourcePacketsNum="4" receivedRepairPacketsNum="0" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="204" sentBytesInSession="235">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="144" sentBytesInSession="139" isWeak="no" rttInMsec="87"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="60" sentBytesInSession="96" isWeak="no" rttInMsec="85"/>
+			</connections>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-29-06
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="207648" receivedBytesPerSecond="25956" receivedPacketsPerSecond="57" sentBitsPerSecond="1002408" sentBytesPerSecond="125301" sentPacketsPerSecond="126" receivedBytesSinceStart="545458233933" receivedPacketsSinceStart="688317663" sentBytesSinceStart="1139448046098" sentPacketsSinceStart="1051212260" runningTimeInSeconds="7002012"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="14841" receivedSourcePacketsNum="372351" receivedRepairPacketsNum="39456" receivedBitsPerSecond="204210" sentBitsPerSecond="985815" receivedBytesInSession="286052720" sentBytesInSession="1143027351">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="216767" sentBitsPerSecond="1013572" receivedBytesInSession="54544109" sentBytesInSession="187076133" isWeak="no" rttInMsec="678"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="24" receivedSourcePacketsNum="4" receivedRepairPacketsNum="0" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="204" sentBytesInSession="235">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="144" sentBytesInSession="139" isWeak="no" rttInMsec="87"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="60" sentBytesInSession="96" isWeak="no" rttInMsec="85"/>
+			</connections>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-29-16
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="202256" receivedBytesPerSecond="25282" receivedPacketsPerSecond="60" sentBitsPerSecond="1112960" sentBytesPerSecond="139120" sentPacketsPerSecond="142" receivedBytesSinceStart="545458438771" receivedPacketsSinceStart="688318144" sentBytesSinceStart="1139449387560" sentPacketsSinceStart="1051213623" runningTimeInSeconds="7002022"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="14851" receivedSourcePacketsNum="372679" receivedRepairPacketsNum="39485" receivedBitsPerSecond="199100" sentBitsPerSecond="1095598" receivedBytesInSession="286257063" sentBytesInSession="1144368781">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="212331" sentBitsPerSecond="1126909" receivedBytesInSession="54748452" sentBytesInSession="188406070" isWeak="no" rttInMsec="699"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="34" receivedSourcePacketsNum="4" receivedRepairPacketsNum="0" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="238" sentBytesInSession="267">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="161" sentBytesInSession="155" isWeak="no" rttInMsec="71"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="77" sentBytesInSession="112" isWeak="no" rttInMsec="73"/>
+			</connections>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-29-26
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="123928" receivedBytesPerSecond="15491" receivedPacketsPerSecond="43" sentBitsPerSecond="1029936" sentBytesPerSecond="128742" sentPacketsPerSecond="131" receivedBytesSinceStart="545458610358" receivedPacketsSinceStart="688318620" sentBytesSinceStart="1139450690852" sentPacketsSinceStart="1051214967" runningTimeInSeconds="7002032"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="14861" receivedSourcePacketsNum="373028" receivedRepairPacketsNum="39495" receivedBitsPerSecond="122088" sentBitsPerSecond="1014645" receivedBytesInSession="286428650" sentBytesInSession="1145672073">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="131577" sentBitsPerSecond="1043553" receivedBytesInSession="54920039" sentBytesInSession="189719021" isWeak="no" rttInMsec="709"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="45" receivedSourcePacketsNum="4" receivedRepairPacketsNum="0" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="238" sentBytesInSession="267">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="161" sentBytesInSession="155" isWeak="no" rttInMsec="71"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="77" sentBytesInSession="112" isWeak="no" rttInMsec="73"/>
+			</connections>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-29-36
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="126312" receivedBytesPerSecond="15789" receivedPacketsPerSecond="52" sentBitsPerSecond="1024296" sentBytesPerSecond="128037" sentPacketsPerSecond="130" receivedBytesSinceStart="545458768630" receivedPacketsSinceStart="688319112" sentBytesSinceStart="1139451887114" sentPacketsSinceStart="1051216286" runningTimeInSeconds="7002042"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="14871" receivedSourcePacketsNum="373381" receivedRepairPacketsNum="39515" receivedBitsPerSecond="124283" sentBitsPerSecond="1007842" receivedBytesInSession="286587356" sentBytesInSession="1146868303">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="135743" sentBitsPerSecond="1036495" receivedBytesInSession="55078745" sentBytesInSession="190919694" isWeak="no" rttInMsec="684"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="55" receivedSourcePacketsNum="4" receivedRepairPacketsNum="0" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="272" sentBytesInSession="299">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="178" sentBytesInSession="171" isWeak="no" rttInMsec="71"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="94" sentBytesInSession="128" isWeak="no" rttInMsec="73"/>
+			</connections>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-29-46
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="285808" receivedBytesPerSecond="35726" receivedPacketsPerSecond="54" sentBitsPerSecond="1035760" sentBytesPerSecond="129470" sentPacketsPerSecond="130" receivedBytesSinceStart="545458994739" receivedPacketsSinceStart="688319598" sentBytesSinceStart="1139452963723" sentPacketsSinceStart="1051217449" runningTimeInSeconds="7002052"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="14881" receivedSourcePacketsNum="373718" receivedRepairPacketsNum="39555" receivedBitsPerSecond="281328" sentBitsPerSecond="1019525" receivedBytesInSession="286812963" sentBytesInSession="1147944880">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="293234" sentBitsPerSecond="1048188" receivedBytesInSession="55304352" sentBytesInSession="191993113" isWeak="no" rttInMsec="684"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="65" receivedSourcePacketsNum="4" receivedRepairPacketsNum="0" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="306" sentBytesInSession="331">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="195" sentBytesInSession="187" isWeak="no" rttInMsec="80"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="111" sentBytesInSession="144" isWeak="no" rttInMsec="73"/>
+			</connections>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-29-56
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="194088" receivedBytesPerSecond="24261" receivedPacketsPerSecond="47" sentBitsPerSecond="1073784" sentBytesPerSecond="134223" sentPacketsPerSecond="122" receivedBytesSinceStart="545459302725" receivedPacketsSinceStart="688320157" sentBytesSinceStart="1139454260370" sentPacketsSinceStart="1051218698" runningTimeInSeconds="7002062"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="14891" receivedSourcePacketsNum="374080" receivedRepairPacketsNum="39637" receivedBitsPerSecond="192627" sentBitsPerSecond="1065702" receivedBytesInSession="287121486" sentBytesInSession="1149241527">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="203076" sentBitsPerSecond="1092825" receivedBytesInSession="55612875" sentBytesInSession="193289925" isWeak="no" rttInMsec="725"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="75" receivedSourcePacketsNum="4" receivedRepairPacketsNum="0" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="306" sentBytesInSession="331">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="195" sentBytesInSession="187" isWeak="no" rttInMsec="80"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="111" sentBytesInSession="144" isWeak="no" rttInMsec="73"/>
+			</connections>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-30-06
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="112824" receivedBytesPerSecond="14103" receivedPacketsPerSecond="40" sentBitsPerSecond="1112568" sentBytesPerSecond="139071" sentPacketsPerSecond="124" receivedBytesSinceStart="545459418092" receivedPacketsSinceStart="688320525" sentBytesSinceStart="1139455470468" sentPacketsSinceStart="1051219782" runningTimeInSeconds="7002072"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="14901" receivedSourcePacketsNum="374325" receivedRepairPacketsNum="39658" receivedBitsPerSecond="111654" sentBitsPerSecond="1101040" receivedBytesInSession="287239697" sentBytesInSession="1150451625">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="120522" sentBitsPerSecond="1128528" receivedBytesInSession="55731086" sentBytesInSession="194493027" isWeak="no" rttInMsec="746"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="85" receivedSourcePacketsNum="4" receivedRepairPacketsNum="0" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="306" sentBytesInSession="331">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="195" sentBytesInSession="187" isWeak="no" rttInMsec="80"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="111" sentBytesInSession="144" isWeak="no" rttInMsec="73"/>
+			</connections>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-30-16
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="215104" receivedBytesPerSecond="26888" receivedPacketsPerSecond="91" sentBitsPerSecond="1620328" sentBytesPerSecond="202541" sentPacketsPerSecond="216" receivedBytesSinceStart="545459685723" receivedPacketsSinceStart="688321119" sentBytesSinceStart="1139456958664" sentPacketsSinceStart="1051221133" runningTimeInSeconds="7002082"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="14911" receivedSourcePacketsNum="374704" receivedRepairPacketsNum="39681" receivedBitsPerSecond="161987" sentBitsPerSecond="1505091" receivedBytesInSession="287498217" sentBytesInSession="1151927141">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="172860" sentBitsPerSecond="1541703" receivedBytesInSession="55989606" sentBytesInSession="195984068" isWeak="no" rttInMsec="758"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="95" receivedSourcePacketsNum="44" receivedRepairPacketsNum="0" receivedBitsPerSecond="51090" sentBitsPerSecond="124532" receivedBytesInSession="8745" sentBytesInSession="13011">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="59228" sentBitsPerSecond="104589" receivedBytesInSession="8490" sentBytesInSession="25351" isWeak="no" rttInMsec="75"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="1180" sentBitsPerSecond="6704" receivedBytesInSession="255" sentBytesInSession="926" isWeak="no" rttInMsec="78"/>
+			</connections>
+			<clients>
+				<client macAddress="cc:2d:b7:16:4a:76" realIpAddress="192.168.0.219" name="iPhone"/>
+			</clients>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-30-26
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="176608" receivedBytesPerSecond="22076" receivedPacketsPerSecond="48" sentBitsPerSecond="1209352" sentBytesPerSecond="151169" sentPacketsPerSecond="137" receivedBytesSinceStart="545459967590" receivedPacketsSinceStart="688321852" sentBytesSinceStart="1139458758661" sentPacketsSinceStart="1051222894" runningTimeInSeconds="7002092"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="14922" receivedSourcePacketsNum="375047" receivedRepairPacketsNum="39700" receivedBitsPerSecond="154767" sentBitsPerSecond="1195129" receivedBytesInSession="287702299" sentBytesInSession="1153507768">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="163865" sentBitsPerSecond="1224198" receivedBytesInSession="56193688" sentBytesInSession="197557384" isWeak="no" rttInMsec="765"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="105" receivedSourcePacketsNum="185" receivedRepairPacketsNum="8" receivedBitsPerSecond="20184" sentBitsPerSecond="2884" receivedBytesInSession="83821" sentBytesInSession="232381">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="21128" sentBitsPerSecond="4216" receivedBytesInSession="80651" sentBytesInSession="194054" isWeak="no" rttInMsec="76"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="610" sentBitsPerSecond="0" receivedBytesInSession="3170" sentBytesInSession="38327" isWeak="no" rttInMsec="2138"/>
+			</connections>
+			<clients>
+				<client macAddress="cc:2d:b7:16:4a:76" realIpAddress="192.168.0.219" name="iPhone"/>
+			</clients>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-30-36
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="152768" receivedBytesPerSecond="19096" receivedPacketsPerSecond="46" sentBitsPerSecond="1351736" sentBytesPerSecond="168967" sentPacketsPerSecond="155" receivedBytesSinceStart="545460189476" receivedPacketsSinceStart="688322347" sentBytesSinceStart="1139460138383" sentPacketsSinceStart="1051224176" runningTimeInSeconds="7002103"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="14932" receivedSourcePacketsNum="375329" receivedRepairPacketsNum="39735" receivedBitsPerSecond="66278" sentBitsPerSecond="1309172" receivedBytesInSession="287899524" sentBytesInSession="1154873425">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="73147" sentBitsPerSecond="1340855" receivedBytesInSession="56390913" sentBytesInSession="198925165" isWeak="no" rttInMsec="696"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="115" receivedSourcePacketsNum="224" receivedRepairPacketsNum="12" receivedBitsPerSecond="84826" sentBitsPerSecond="27853" receivedBytesInSession="109800" sentBytesInSession="246446">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="88150" sentBitsPerSecond="30512" receivedBytesInSession="106125" sentBytesInSession="208119" isWeak="no" rttInMsec="75"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="3675" sentBytesInSession="38327" isWeak="no" rttInMsec="9039"/>
+			</connections>
+			<clients>
+				<client macAddress="cc:2d:b7:16:4a:76" realIpAddress="192.168.0.219" name="iPhone"/>
+			</clients>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-30-46
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="200416" receivedBytesPerSecond="25052" receivedPacketsPerSecond="90" sentBitsPerSecond="1816440" sentBytesPerSecond="227055" sentPacketsPerSecond="202" receivedBytesSinceStart="545460371432" receivedPacketsSinceStart="688323092" sentBytesSinceStart="1139462225120" sentPacketsSinceStart="1051226132" runningTimeInSeconds="7002113"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="14942" receivedSourcePacketsNum="375558" receivedRepairPacketsNum="39744" receivedBitsPerSecond="96255" sentBitsPerSecond="957994" receivedBytesInSession="288004560" sentBytesInSession="1156478449">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="108407" sentBitsPerSecond="980531" receivedBytesInSession="56495949" sentBytesInSession="200526714" isWeak="no" rttInMsec="668"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="125" receivedSourcePacketsNum="465" receivedRepairPacketsNum="19" receivedBitsPerSecond="101432" sentBitsPerSecond="833717" receivedBytesInSession="186674" sentBytesInSession="728159">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="94937" sentBitsPerSecond="842958" receivedBytesInSession="167047" sentBytesInSession="610313" isWeak="no" rttInMsec="73"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="14227" sentBitsPerSecond="12854" receivedBytesInSession="19627" sentBytesInSession="117846" isWeak="no" rttInMsec="2314"/>
+			</connections>
+			<clients>
+				<client macAddress="cc:2d:b7:16:4a:76" realIpAddress="192.168.0.219" name="iPhone"/>
+			</clients>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-30-56
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="345920" receivedBytesPerSecond="43240" receivedPacketsPerSecond="310" sentBitsPerSecond="29571360" sentBytesPerSecond="3696420" sentPacketsPerSecond="2798" receivedBytesSinceStart="545460597076" receivedPacketsSinceStart="688324308" sentBytesSinceStart="1139470806034" sentPacketsSinceStart="1051232980" runningTimeInSeconds="7002123"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="14952" receivedSourcePacketsNum="375943" receivedRepairPacketsNum="39754" receivedBitsPerSecond="164937" sentBitsPerSecond="375801" receivedBytesInSession="288158004" sentBytesInSession="1157734980">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="175537" sentBitsPerSecond="394794" receivedBytesInSession="56649393" sentBytesInSession="201787151" isWeak="no" rttInMsec="681"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="135" receivedSourcePacketsNum="889" receivedRepairPacketsNum="21" receivedBitsPerSecond="176105" sentBitsPerSecond="28778620" receivedBytesInSession="259211" sentBytesInSession="8052542">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="123655" sentBitsPerSecond="28489341" receivedBytesInSession="213824" sentBytesInSession="7838481" isWeak="no" rttInMsec="323"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="110310" sentBitsPerSecond="888201" receivedBytesInSession="45387" sentBytesInSession="355983" isWeak="no" rttInMsec="9623"/>
+			</connections>
+			<clients>
+				<client macAddress="cc:2d:b7:16:4a:76" realIpAddress="192.168.0.219" name="iPhone"/>
+			</clients>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-31-06
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="310768" receivedBytesPerSecond="38846" receivedPacketsPerSecond="186" sentBitsPerSecond="25462720" sentBytesPerSecond="3182840" sentPacketsPerSecond="2381" receivedBytesSinceStart="545460928993" receivedPacketsSinceStart="688326453" sentBytesSinceStart="1139506543383" sentPacketsSinceStart="1051259675" runningTimeInSeconds="7002133"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="14962" receivedSourcePacketsNum="376441" receivedRepairPacketsNum="39769" receivedBitsPerSecond="198702" sentBitsPerSecond="998175" receivedBytesInSession="288345094" sentBytesInSession="1158678408">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="212159" sentBitsPerSecond="1025971" receivedBytesInSession="56836483" sentBytesInSession="202715697" isWeak="no" rttInMsec="699"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="145" receivedSourcePacketsNum="1433" receivedRepairPacketsNum="21" receivedBitsPerSecond="107355" sentBitsPerSecond="24078637" receivedBytesInSession="402494" sentBytesInSession="42846463">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="110341" sentBitsPerSecond="23694816" receivedBytesInSession="308808" sentBytesInSession="41499405" isWeak="no" rttInMsec="588"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="24589" sentBitsPerSecond="881285" receivedBytesInSession="93686" sentBytesInSession="1379866" isWeak="no" rttInMsec="13285"/>
+			</connections>
+			<clients>
+				<client macAddress="cc:2d:b7:16:4a:76" realIpAddress="192.168.0.219" name="iPhone"/>
+			</clients>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-31-16
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="46917288" receivedBytesPerSecond="5864661" receivedPacketsPerSecond="4365" sentBitsPerSecond="1260440" sentBytesPerSecond="157555" sentPacketsPerSecond="528" receivedBytesSinceStart="545492041373" receivedPacketsSinceStart="688350296" sentBytesSinceStart="1139513686093" sentPacketsSinceStart="1051266974" runningTimeInSeconds="7002143"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="14972" receivedSourcePacketsNum="376880" receivedRepairPacketsNum="39774" receivedBitsPerSecond="73811" sentBitsPerSecond="985138" receivedBytesInSession="288478260" sentBytesInSession="1159621070">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="81963" sentBitsPerSecond="1035369" receivedBytesInSession="56969649" sentBytesInSession="203658407" isWeak="no" rttInMsec="688"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="155" receivedSourcePacketsNum="22807" receivedRepairPacketsNum="1809" receivedBitsPerSecond="46070558" sentBitsPerSecond="254536" receivedBytesInSession="31880219" sentBytesInSession="49046511">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="41188807" sentBitsPerSecond="248839" receivedBytesInSession="26870658" sentBytesInSession="47400377" isWeak="no" rttInMsec="168"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="5835251" sentBitsPerSecond="71789" receivedBytesInSession="5009561" sentBytesInSession="1651256" isWeak="no" rttInMsec="18499"/>
+			</connections>
+			<clients>
+				<client macAddress="cc:2d:b7:16:4a:76" realIpAddress="192.168.0.219" name="iPhone"/>
+			</clients>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-31-26
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="20469496" receivedBytesPerSecond="2558687" receivedPacketsPerSecond="1919" sentBitsPerSecond="886984" sentBytesPerSecond="110873" sentPacketsPerSecond="208" receivedBytesSinceStart="545549689598" receivedPacketsSinceStart="688392994" sentBytesSinceStart="1139514905310" sentPacketsSinceStart="1051270757" runningTimeInSeconds="7002153"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="14982" receivedSourcePacketsNum="377166" receivedRepairPacketsNum="39800" receivedBitsPerSecond="117854" sentBitsPerSecond="766904" receivedBytesInSession="288673723" sentBytesInSession="1160552262">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="125372" sentBitsPerSecond="783929" receivedBytesInSession="57165112" sentBytesInSession="204589593" isWeak="no" rttInMsec="729"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="165" receivedSourcePacketsNum="60910" receivedRepairPacketsNum="5413" receivedBitsPerSecond="20086718" sentBitsPerSecond="108600" receivedBytesInSession="88834405" sentBytesInSession="49334536">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="16577002" sentBitsPerSecond="99369" receivedBytesInSession="76605296" sentBytesInSession="47623419" isWeak="no" rttInMsec="137"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="3926491" sentBitsPerSecond="38195" receivedBytesInSession="12229109" sentBytesInSession="1711209" isWeak="no" rttInMsec="27204"/>
+			</connections>
+			<clients>
+				<client macAddress="cc:2d:b7:16:4a:76" realIpAddress="192.168.0.219" name="iPhone"/>
+			</clients>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-31-36
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="122792" receivedBytesPerSecond="15349" receivedPacketsPerSecond="59" sentBitsPerSecond="1203664" sentBytesPerSecond="150458" sentPacketsPerSecond="141" receivedBytesSinceStart="545550147164" receivedPacketsSinceStart="688393826" sentBytesSinceStart="1139516309677" sentPacketsSinceStart="1051272323" runningTimeInSeconds="7002163"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="14992" receivedSourcePacketsNum="377449" receivedRepairPacketsNum="39813" receivedBitsPerSecond="66473" sentBitsPerSecond="933935" receivedBytesInSession="288826934" sentBytesInSession="1161548517">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="75099" sentBitsPerSecond="956716" receivedBytesInSession="57318323" sentBytesInSession="205596828" isWeak="no" rttInMsec="657"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="175" receivedSourcePacketsNum="61073" receivedRepairPacketsNum="5564" receivedBitsPerSecond="54774" sentBitsPerSecond="254598" receivedBytesInSession="89138869" sentBytesInSession="49742648">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="58558" sentBitsPerSecond="263003" receivedBytesInSession="76718498" sentBytesInSession="48067232" isWeak="no" rttInMsec="74"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="639" sentBitsPerSecond="0" receivedBytesInSession="12420371" sentBytesInSession="1711711" isWeak="no" rttInMsec="37121"/>
+			</connections>
+			<clients>
+				<client macAddress="cc:2d:b7:16:4a:76" realIpAddress="192.168.0.219" name="iPhone"/>
+			</clients>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-31-46
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="51904" receivedBytesPerSecond="6488" receivedPacketsPerSecond="39" sentBitsPerSecond="624016" sentBytesPerSecond="78002" sentPacketsPerSecond="65" receivedBytesSinceStart="545550309698" receivedPacketsSinceStart="688394405" sentBytesSinceStart="1139517401173" sentPacketsSinceStart="1051273435" runningTimeInSeconds="7002173"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15002" receivedSourcePacketsNum="377787" receivedRepairPacketsNum="39828" receivedBitsPerSecond="50854" sentBitsPerSecond="616241" receivedBytesInSession="288967548" sentBytesInSession="1162550316">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="59260" sentBitsPerSecond="630620" receivedBytesInSession="57458937" sentBytesInSession="206587605" isWeak="no" rttInMsec="700"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="185" receivedSourcePacketsNum="61139" receivedRepairPacketsNum="5566" receivedBitsPerSecond="402" sentBitsPerSecond="0" receivedBytesInSession="89161378" sentBytesInSession="49832345">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="76740279" sentBytesInSession="48120634" isWeak="no" rttInMsec="76"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="624" sentBitsPerSecond="0" receivedBytesInSession="12421099" sentBytesInSession="1711711" isWeak="no" rttInMsec="45978"/>
+			</connections>
+			<clients>
+				<client macAddress="cc:2d:b7:16:4a:76" realIpAddress="192.168.0.219" name="iPhone"/>
+			</clients>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-31-56
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="119960" receivedBytesPerSecond="14995" receivedPacketsPerSecond="49" sentBitsPerSecond="954648" sentBytesPerSecond="119331" sentPacketsPerSecond="104" receivedBytesSinceStart="545550465944" receivedPacketsSinceStart="688394938" sentBytesSinceStart="1139518448326" sentPacketsSinceStart="1051274430" runningTimeInSeconds="7002183"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15012" receivedSourcePacketsNum="378082" receivedRepairPacketsNum="39830" receivedBitsPerSecond="103554" sentBitsPerSecond="899242" receivedBytesInSession="289073359" sentBytesInSession="1163542740">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="111925" sentBitsPerSecond="920609" receivedBytesInSession="57564748" sentBytesInSession="207580430" isWeak="no" rttInMsec="656"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="195" receivedSourcePacketsNum="61225" receivedRepairPacketsNum="5575" receivedBitsPerSecond="14412" sentBitsPerSecond="39547" receivedBytesInSession="89211115" sentBytesInSession="49887074">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="4106" sentBitsPerSecond="40468" receivedBytesInSession="76775599" sentBytesInSession="48174893" isWeak="no" rttInMsec="75"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="12728" sentBitsPerSecond="621" receivedBytesInSession="12435516" sentBytesInSession="1712181" isWeak="no" rttInMsec="55979"/>
+			</connections>
+			<clients>
+				<client macAddress="cc:2d:b7:16:4a:76" realIpAddress="192.168.0.219" name="iPhone"/>
+			</clients>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-32-07
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="91032" receivedBytesPerSecond="11379" receivedPacketsPerSecond="41" sentBitsPerSecond="1048632" sentBytesPerSecond="131079" sentPacketsPerSecond="145" receivedBytesSinceStart="545550729044" receivedPacketsSinceStart="688395637" sentBytesSinceStart="1139519700227" sentPacketsSinceStart="1051275697" runningTimeInSeconds="7002193"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15022" receivedSourcePacketsNum="378464" receivedRepairPacketsNum="39846" receivedBitsPerSecond="89515" sentBitsPerSecond="1031160" receivedBytesInSession="289319278" sentBytesInSession="1164785918">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="98546" sentBitsPerSecond="1063098" receivedBytesInSession="57810667" sentBytesInSession="208831433" isWeak="no" rttInMsec="762"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="205" receivedSourcePacketsNum="61253" receivedRepairPacketsNum="5577" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="89228296" sentBytesInSession="49895797">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="76785112" sentBytesInSession="48183310" isWeak="no" rttInMsec="74"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="12443184" sentBytesInSession="1712487" isWeak="no" rttInMsec="49477"/>
+			</connections>
+			<clients>
+				<client macAddress="cc:2d:b7:16:4a:76" realIpAddress="192.168.0.219" name="iPhone"/>
+			</clients>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-32-17
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="145768" receivedBytesPerSecond="18221" receivedPacketsPerSecond="34" sentBitsPerSecond="649192" sentBytesPerSecond="81149" sentPacketsPerSecond="95" receivedBytesSinceStart="545550930587" receivedPacketsSinceStart="688396086" sentBytesSinceStart="1139521082961" sentPacketsSinceStart="1051277044" runningTimeInSeconds="7002203"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15032" receivedSourcePacketsNum="378754" receivedRepairPacketsNum="39882" receivedBitsPerSecond="143474" sentBitsPerSecond="638979" receivedBytesInSession="289520737" sentBytesInSession="1166168602">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="150971" sentBitsPerSecond="659925" receivedBytesInSession="58012126" sentBytesInSession="210216859" isWeak="no" rttInMsec="733"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="215" receivedSourcePacketsNum="61255" receivedRepairPacketsNum="5577" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="89228380" sentBytesInSession="49895847">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="76785196" sentBytesInSession="48183360" isWeak="no" rttInMsec="74"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="12443184" sentBytesInSession="1712487" isWeak="no" rttInMsec="49477"/>
+			</connections>
+			<clients>
+				<client macAddress="cc:2d:b7:16:4a:76" realIpAddress="192.168.0.219" name="iPhone"/>
+			</clients>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-32-27
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="168904" receivedBytesPerSecond="21113" receivedPacketsPerSecond="60" sentBitsPerSecond="678064" sentBytesPerSecond="84758" sentPacketsPerSecond="85" receivedBytesSinceStart="545551156780" receivedPacketsSinceStart="688396562" sentBytesSinceStart="1139522221081" sentPacketsSinceStart="1051278125" runningTimeInSeconds="7002213"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15042" receivedSourcePacketsNum="379048" receivedRepairPacketsNum="39919" receivedBitsPerSecond="149548" sentBitsPerSecond="658723" receivedBytesInSession="289743486" sentBytesInSession="1167303249">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="161031" sentBitsPerSecond="676389" receivedBytesInSession="58234875" sentBytesInSession="211340583" isWeak="no" rttInMsec="811"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="225" receivedSourcePacketsNum="61273" receivedRepairPacketsNum="5577" receivedBitsPerSecond="16955" sentBitsPerSecond="9708" receivedBytesInSession="89231824" sentBytesInSession="49899320">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="18138" sentBitsPerSecond="10189" receivedBytesInSession="76788436" sentBytesInSession="48186731" isWeak="no" rttInMsec="78"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="583" sentBitsPerSecond="623" receivedBytesInSession="12443388" sentBytesInSession="1712589" isWeak="no" rttInMsec="74"/>
+			</connections>
+			<clients>
+				<client macAddress="cc:2d:b7:16:4a:76" realIpAddress="192.168.0.219" name="iPhone"/>
+			</clients>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-32-37
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="55360" receivedBytesPerSecond="6920" receivedPacketsPerSecond="44" sentBitsPerSecond="730584" sentBytesPerSecond="91323" sentPacketsPerSecond="81" receivedBytesSinceStart="545551539647" receivedPacketsSinceStart="688397170" sentBytesSinceStart="1139523247919" sentPacketsSinceStart="1051279150" runningTimeInSeconds="7002223"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15052" receivedSourcePacketsNum="379297" receivedRepairPacketsNum="39927" receivedBitsPerSecond="54704" sentBitsPerSecond="721937" receivedBytesInSession="289829877" sentBytesInSession="1168311688">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="64444" sentBitsPerSecond="739866" receivedBytesInSession="58321266" sentBytesInSession="212348977" isWeak="no" rttInMsec="671"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="235" receivedSourcePacketsNum="61496" receivedRepairPacketsNum="5593" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="89528300" sentBytesInSession="49917719">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="77084912" sentBytesInSession="48205130" isWeak="no" rttInMsec="76"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="12443388" sentBytesInSession="1712589" isWeak="no" rttInMsec="74"/>
+			</connections>
+			<clients>
+				<client macAddress="cc:2d:b7:16:4a:76" realIpAddress="192.168.0.219" name="iPhone"/>
+			</clients>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-32-47
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="52528" receivedBytesPerSecond="6566" receivedPacketsPerSecond="44" sentBitsPerSecond="1496712" sentBytesPerSecond="187089" sentPacketsPerSecond="160" receivedBytesSinceStart="545551644972" receivedPacketsSinceStart="688397627" sentBytesSinceStart="1139524695114" sentPacketsSinceStart="1051280397" runningTimeInSeconds="7002233"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15062" receivedSourcePacketsNum="379620" receivedRepairPacketsNum="39936" receivedBitsPerSecond="50847" sentBitsPerSecond="643442" receivedBytesInSession="289935011" sentBytesInSession="1169652732">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="59935" sentBitsPerSecond="660066" receivedBytesInSession="58426400" sentBytesInSession="213704022" isWeak="no" rttInMsec="674"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="246" receivedSourcePacketsNum="61502" receivedRepairPacketsNum="5593" receivedBitsPerSecond="1132" sentBitsPerSecond="837641" receivedBytesInSession="89528822" sentBytesInSession="50023870">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="1797" sentBitsPerSecond="856482" receivedBytesInSession="77085434" sentBytesInSession="48510219" isWeak="no" rttInMsec="71"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="12443388" sentBytesInSession="1712589" isWeak="no" rttInMsec="74"/>
+			</connections>
+			<clients>
+				<client macAddress="cc:2d:b7:16:4a:76" realIpAddress="192.168.0.219" name="iPhone"/>
+			</clients>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-32-57
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="125760" receivedBytesPerSecond="15720" receivedPacketsPerSecond="86" sentBitsPerSecond="6210520" sentBytesPerSecond="776315" sentPacketsPerSecond="618" receivedBytesSinceStart="545551959265" receivedPacketsSinceStart="688399013" sentBytesSinceStart="1139547191634" sentPacketsSinceStart="1051297396" runningTimeInSeconds="7002243"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15072" receivedSourcePacketsNum="379945" receivedRepairPacketsNum="39959" receivedBitsPerSecond="44176" sentBitsPerSecond="497939" receivedBytesInSession="290119901" sentBytesInSession="1170807849">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="53713" sentBitsPerSecond="511468" receivedBytesInSession="58611290" sentBytesInSession="214845185" isWeak="no" rttInMsec="706"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="256" receivedSourcePacketsNum="61761" receivedRepairPacketsNum="5599" receivedBitsPerSecond="80344" sentBitsPerSecond="5651364" receivedBytesInSession="89660781" sentBytesInSession="71365273">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="89207" sentBitsPerSecond="5774902" receivedBytesInSession="77194658" sentBytesInSession="69245169" isWeak="no" rttInMsec="89"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="673" sentBitsPerSecond="0" receivedBytesInSession="12466123" sentBytesInSession="2120155" isWeak="no" rttInMsec="5190"/>
+			</connections>
+			<clients>
+				<client macAddress="cc:2d:b7:16:4a:76" realIpAddress="192.168.0.219" name="iPhone"/>
+			</clients>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-33-07
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="110720" receivedBytesPerSecond="13840" receivedPacketsPerSecond="69" sentBitsPerSecond="5637880" sentBytesPerSecond="704735" sentPacketsPerSecond="549" receivedBytesSinceStart="545552134299" receivedPacketsSinceStart="688399799" sentBytesSinceStart="1139554849130" sentPacketsSinceStart="1051303432" runningTimeInSeconds="7002253"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15082" receivedSourcePacketsNum="380189" receivedRepairPacketsNum="39972" receivedBitsPerSecond="33931" sentBitsPerSecond="1054445" receivedBytesInSession="290201030" sentBytesInSession="1172288653">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="41253" sentBitsPerSecond="1077520" receivedBytesInSession="58692419" sentBytesInSession="216326274" isWeak="no" rttInMsec="674"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="266" receivedSourcePacketsNum="61867" receivedRepairPacketsNum="5599" receivedBitsPerSecond="75739" sentBitsPerSecond="4530035" receivedBytesInSession="89751799" sentBytesInSession="77541965">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="82443" sentBitsPerSecond="4628771" receivedBytesInSession="77284934" sentBytesInSession="75409938" isWeak="no" rttInMsec="91"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="1283" sentBitsPerSecond="0" receivedBytesInSession="12466865" sentBytesInSession="2132027" isWeak="no" rttInMsec="14540"/>
+			</connections>
+			<clients>
+				<client macAddress="cc:2d:b7:16:4a:76" realIpAddress="192.168.0.219" name="iPhone"/>
+			</clients>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-33-17
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="54680" receivedBytesPerSecond="6835" receivedPacketsPerSecond="35" sentBitsPerSecond="831120" sentBytesPerSecond="103890" sentPacketsPerSecond="119" receivedBytesSinceStart="545552239776" receivedPacketsSinceStart="688400263" sentBytesSinceStart="1139556236854" sentPacketsSinceStart="1051304703" runningTimeInSeconds="7002263"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15092" receivedSourcePacketsNum="380493" receivedRepairPacketsNum="39990" receivedBitsPerSecond="53720" sentBitsPerSecond="822671" receivedBytesInSession="290304179" sentBytesInSession="1173387197">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="61258" sentBitsPerSecond="849057" receivedBytesInSession="58795568" sentBytesInSession="217428599" isWeak="no" rttInMsec="693"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="276" receivedSourcePacketsNum="61873" receivedRepairPacketsNum="5599" receivedBitsPerSecond="403" sentBitsPerSecond="0" receivedBytesInSession="89755600" sentBytesInSession="77831145">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="77287671" sentBytesInSession="75699067" isWeak="no" rttInMsec="70"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="625" sentBitsPerSecond="0" receivedBytesInSession="12467929" sentBytesInSession="2132078" isWeak="no" rttInMsec="24486"/>
+			</connections>
+			<clients>
+				<client macAddress="cc:2d:b7:16:4a:76" realIpAddress="192.168.0.219" name="iPhone"/>
+			</clients>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-33-27
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="108744" receivedBytesPerSecond="13593" receivedPacketsPerSecond="40" sentBitsPerSecond="783912" sentBytesPerSecond="97989" sentPacketsPerSecond="85" receivedBytesSinceStart="545552332188" receivedPacketsSinceStart="688400656" sentBytesSinceStart="1139557065545" sentPacketsSinceStart="1051305522" runningTimeInSeconds="7002273"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15102" receivedSourcePacketsNum="380765" receivedRepairPacketsNum="40001" receivedBitsPerSecond="106126" sentBitsPerSecond="775666" receivedBytesInSession="290395337" sentBytesInSession="1174215227">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="114331" sentBitsPerSecond="794294" receivedBytesInSession="58886726" sentBytesInSession="218252611" isWeak="no" rttInMsec="687"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="286" receivedSourcePacketsNum="61885" receivedRepairPacketsNum="5599" receivedBitsPerSecond="1528" sentBitsPerSecond="395" receivedBytesInSession="89757252" sentBytesInSession="77831806">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="1552" sentBitsPerSecond="617" receivedBytesInSession="77288348" sentBytesInSession="75699677" isWeak="no" rttInMsec="81"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="641" sentBitsPerSecond="0" receivedBytesInSession="12468904" sentBytesInSession="2132129" isWeak="no" rttInMsec="33669"/>
+			</connections>
+			<clients>
+				<client macAddress="cc:2d:b7:16:4a:76" realIpAddress="192.168.0.219" name="iPhone"/>
+			</clients>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-33-37
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="47936" receivedBytesPerSecond="5992" receivedPacketsPerSecond="32" sentBitsPerSecond="451064" sentBytesPerSecond="56383" sentPacketsPerSecond="61" receivedBytesSinceStart="545552416587" receivedPacketsSinceStart="688401059" sentBytesSinceStart="1139557699988" sentPacketsSinceStart="1051306190" runningTimeInSeconds="7002283"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15112" receivedSourcePacketsNum="381069" receivedRepairPacketsNum="40006" receivedBitsPerSecond="46597" sentBitsPerSecond="446213" receivedBytesInSession="290477569" sentBytesInSession="1174849670">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="53245" sentBitsPerSecond="459730" receivedBytesInSession="58968958" sentBytesInSession="218897903" isWeak="no" rttInMsec="679"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="296" receivedSourcePacketsNum="61885" receivedRepairPacketsNum="5599" receivedBitsPerSecond="823" sentBitsPerSecond="0" receivedBytesInSession="89758180" sentBytesInSession="77831806">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="77288348" sentBytesInSession="75699677" isWeak="no" rttInMsec="81"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="1266" sentBitsPerSecond="0" receivedBytesInSession="12469832" sentBytesInSession="2132129" isWeak="no" rttInMsec="42973"/>
+			</connections>
+			<clients>
+				<client macAddress="cc:2d:b7:16:4a:76" realIpAddress="192.168.0.219" name="iPhone"/>
+			</clients>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-33-47
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="45480" receivedBytesPerSecond="5685" receivedPacketsPerSecond="22" sentBitsPerSecond="470152" sentBytesPerSecond="58769" sentPacketsPerSecond="54" receivedBytesSinceStart="545552532696" receivedPacketsSinceStart="688401400" sentBytesSinceStart="1139558169074" sentPacketsSinceStart="1051306849" runningTimeInSeconds="7002293"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15122" receivedSourcePacketsNum="381303" receivedRepairPacketsNum="40032" receivedBitsPerSecond="45010" sentBitsPerSecond="465293" receivedBytesInSession="290591722" sentBytesInSession="1175318261">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="49887" sentBitsPerSecond="477264" receivedBytesInSession="59083111" sentBytesInSession="219355550" isWeak="no" rttInMsec="705"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="306" receivedSourcePacketsNum="61888" receivedRepairPacketsNum="5599" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="89759504" sentBytesInSession="77832301">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="77288755" sentBytesInSession="75700121" isWeak="no" rttInMsec="72"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="12470749" sentBytesInSession="2132180" isWeak="no" rttInMsec="46195"/>
+			</connections>
+			<clients>
+				<client macAddress="cc:2d:b7:16:4a:76" realIpAddress="192.168.0.219" name="iPhone"/>
+			</clients>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-33-57
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="26464" receivedBytesPerSecond="3308" receivedPacketsPerSecond="27" sentBitsPerSecond="382832" sentBytesPerSecond="47854" sentPacketsPerSecond="60" receivedBytesSinceStart="545552630610" receivedPacketsSinceStart="688401705" sentBytesSinceStart="1139558820408" sentPacketsSinceStart="1051307670" runningTimeInSeconds="7002303"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15132" receivedSourcePacketsNum="381527" receivedRepairPacketsNum="40046" receivedBitsPerSecond="26224" sentBitsPerSecond="378737" receivedBytesInSession="290689636" sentBytesInSession="1175969515">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="32218" sentBitsPerSecond="391611" receivedBytesInSession="59181025" sentBytesInSession="220006854" isWeak="no" rttInMsec="702"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="316" receivedSourcePacketsNum="61888" receivedRepairPacketsNum="5599" receivedBitsPerSecond="0" sentBitsPerSecond="634" receivedBytesInSession="89759504" sentBytesInSession="77832381">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.121:31703" receivedBitsPerSecond="0" sentBitsPerSecond="1078" receivedBytesInSession="77288755" sentBytesInSession="75700201" isWeak="no" rttInMsec="72"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="12470749" sentBytesInSession="2132180" isWeak="no" rttInMsec="46195"/>
+			</connections>
+			<clients>
+				<client macAddress="cc:2d:b7:16:4a:76" realIpAddress="192.168.0.219" name="iPhone"/>
+			</clients>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-34-07
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="40576" receivedBytesPerSecond="5072" receivedPacketsPerSecond="35" sentBitsPerSecond="553368" sentBytesPerSecond="69171" sentPacketsPerSecond="80" receivedBytesSinceStart="545552684880" receivedPacketsSinceStart="688402039" sentBytesSinceStart="1139559443632" sentPacketsSinceStart="1051308486" runningTimeInSeconds="7002313"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15142" receivedSourcePacketsNum="381790" receivedRepairPacketsNum="40049" receivedBitsPerSecond="40211" sentBitsPerSecond="542057" receivedBytesInSession="290743906" sentBytesInSession="1176587075">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="47981" sentBitsPerSecond="555376" receivedBytesInSession="59235295" sentBytesInSession="220624364" isWeak="no" rttInMsec="682"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="326" receivedSourcePacketsNum="61888" receivedRepairPacketsNum="5599" receivedBitsPerSecond="0" sentBitsPerSecond="6342" receivedBytesInSession="89759504" sentBytesInSession="77838045">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60497" receivedBitsPerSecond="0" sentBitsPerSecond="10782" receivedBytesInSession="12470749" sentBytesInSession="2136228" isWeak="no" rttInMsec="46195"/>
+			</connections>
+			<clients>
+				<client macAddress="cc:2d:b7:16:4a:76" realIpAddress="192.168.0.219" name="iPhone"/>
+			</clients>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-34-17
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="1">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="20240" receivedBytesPerSecond="2530" receivedPacketsPerSecond="28" sentBitsPerSecond="464680" sentBytesPerSecond="58085" sentPacketsPerSecond="49" receivedBytesSinceStart="545552779601" receivedPacketsSinceStart="688402374" sentBytesSinceStart="1139560180701" sentPacketsSinceStart="1051309334" runningTimeInSeconds="7002323"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15153" receivedSourcePacketsNum="382034" receivedRepairPacketsNum="40071" receivedBitsPerSecond="20090" sentBitsPerSecond="461257" receivedBytesInSession="290838946" sentBytesInSession="1177320192">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="26316" sentBitsPerSecond="472152" receivedBytesInSession="59330335" sentBytesInSession="221357739" isWeak="no" rttInMsec="699"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="no" receivedSourcePacketsNum="61888" receivedRepairPacketsNum="5599" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="89759504" sentBytesInSession="77841997">
+			<connections/>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-34-27
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="1">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="23960" receivedBytesPerSecond="2995" receivedPacketsPerSecond="35" sentBitsPerSecond="317072" sentBytesPerSecond="39634" sentPacketsPerSecond="43" receivedBytesSinceStart="545552852730" receivedPacketsSinceStart="688402715" sentBytesSinceStart="1139560749946" sentPacketsSinceStart="1051309984" runningTimeInSeconds="7002333"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15163" receivedSourcePacketsNum="382294" receivedRepairPacketsNum="40076" receivedBitsPerSecond="23781" sentBitsPerSecond="314712" receivedBytesInSession="290911756" sentBytesInSession="1177889437">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="31563" sentBitsPerSecond="324272" receivedBytesInSession="59403145" sentBytesInSession="221926726" isWeak="no" rttInMsec="677"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-34-37
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="65608" receivedBytesPerSecond="8201" receivedPacketsPerSecond="48" sentBitsPerSecond="389720" sentBytesPerSecond="48715" sentPacketsPerSecond="54" receivedBytesSinceStart="545552923234" receivedPacketsSinceStart="688403059" sentBytesSinceStart="1139561225064" sentPacketsSinceStart="1051310590" runningTimeInSeconds="7002344"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15173" receivedSourcePacketsNum="382549" receivedRepairPacketsNum="40087" receivedBitsPerSecond="62426" sentBitsPerSecond="385732" receivedBytesInSession="290981904" sentBytesInSession="1178364314">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="71339" sentBitsPerSecond="396427" receivedBytesInSession="59473293" sentBytesInSession="222412599" isWeak="no" rttInMsec="678"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="0" receivedSourcePacketsNum="2" receivedRepairPacketsNum="0" receivedBitsPerSecond="1591" sentBitsPerSecond="0" receivedBytesInSession="120" sentBytesInSession="99">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60503" receivedBitsPerSecond="716" sentBitsPerSecond="1687" receivedBytesInSession="103" sentBytesInSession="83" isWeak="no" rttInMsec="69"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.3:12105" receivedBitsPerSecond="895" sentBitsPerSecond="875" receivedBytesInSession="17" sentBytesInSession="16" isWeak="no" rttInMsec="75"/>
+			</connections>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-34-47
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="43344" receivedBytesPerSecond="5418" receivedPacketsPerSecond="31" sentBitsPerSecond="698136" sentBytesPerSecond="87267" sentPacketsPerSecond="69" receivedBytesSinceStart="545552971319" receivedPacketsSinceStart="688403328" sentBytesSinceStart="1139561848806" sentPacketsSinceStart="1051311223" runningTimeInSeconds="7002354"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15183" receivedSourcePacketsNum="382739" receivedRepairPacketsNum="40092" receivedBitsPerSecond="43152" sentBitsPerSecond="695052" receivedBytesInSession="291029888" sentBytesInSession="1178987954">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="50065" sentBitsPerSecond="710439" receivedBytesInSession="59521277" sentBytesInSession="223025243" isWeak="no" rttInMsec="685"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="10" receivedSourcePacketsNum="4" receivedRepairPacketsNum="0" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="221" sentBytesInSession="201">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60503" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="145" sentBytesInSession="127" isWeak="no" rttInMsec="69"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.3:12105" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="76" sentBytesInSession="74" isWeak="no" rttInMsec="75"/>
+			</connections>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-34-57
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="32128" receivedBytesPerSecond="4016" receivedPacketsPerSecond="39" sentBitsPerSecond="424384" sentBytesPerSecond="53048" sentPacketsPerSecond="50" receivedBytesSinceStart="545553036774" receivedPacketsSinceStart="688403686" sentBytesSinceStart="1139562455184" sentPacketsSinceStart="1051311835" runningTimeInSeconds="7002364"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15193" receivedSourcePacketsNum="383019" receivedRepairPacketsNum="40101" receivedBitsPerSecond="31976" sentBitsPerSecond="422388" receivedBytesInSession="291095343" sentBytesInSession="1179594332">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="40671" sentBitsPerSecond="433535" receivedBytesInSession="59586732" sentBytesInSession="223631621" isWeak="no" rttInMsec="679"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="20" receivedSourcePacketsNum="4" receivedRepairPacketsNum="0" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="221" sentBytesInSession="201">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60503" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="145" sentBytesInSession="127" isWeak="no" rttInMsec="69"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.3:12105" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="76" sentBytesInSession="74" isWeak="no" rttInMsec="75"/>
+			</connections>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-35-07
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="80704" receivedBytesPerSecond="10088" receivedPacketsPerSecond="43" sentBitsPerSecond="683328" sentBytesPerSecond="85416" sentPacketsPerSecond="72" receivedBytesSinceStart="545553139677" receivedPacketsSinceStart="688404053" sentBytesSinceStart="1139563022599" sentPacketsSinceStart="1051312447" runningTimeInSeconds="7002374"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15203" receivedSourcePacketsNum="383309" receivedRepairPacketsNum="40110" receivedBitsPerSecond="80066" sentBitsPerSecond="678690" receivedBytesInSession="291198229" sentBytesInSession="1180161699">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="89415" sentBitsPerSecond="694050" receivedBytesInSession="59689618" sentBytesInSession="224198988" isWeak="no" rttInMsec="677"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="30" receivedSourcePacketsNum="4" receivedRepairPacketsNum="0" receivedBitsPerSecond="135" sentBitsPerSecond="0" receivedBytesInSession="238" sentBytesInSession="249">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60503" receivedBitsPerSecond="357" sentBitsPerSecond="349" receivedBytesInSession="162" sentBytesInSession="143" isWeak="no" rttInMsec="101"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.3:12105" receivedBitsPerSecond="0" sentBitsPerSecond="699" receivedBytesInSession="76" sentBytesInSession="106" isWeak="no" rttInMsec="75"/>
+			</connections>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-35-17
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="74112" receivedBytesPerSecond="9264" receivedPacketsPerSecond="32" sentBitsPerSecond="451760" sentBytesPerSecond="56470" sentPacketsPerSecond="52" receivedBytesSinceStart="545553223593" receivedPacketsSinceStart="688404357" sentBytesSinceStart="1139563633588" sentPacketsSinceStart="1051313117" runningTimeInSeconds="7002384"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15213" receivedSourcePacketsNum="383517" receivedRepairPacketsNum="40124" receivedBitsPerSecond="73592" sentBitsPerSecond="448596" receivedBytesInSession="291281823" sentBytesInSession="1180772348">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="80710" sentBitsPerSecond="460162" receivedBytesInSession="59773212" sentBytesInSession="224812418" isWeak="no" rttInMsec="709"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="2" receivedSourcePacketsNum="2" receivedRepairPacketsNum="0" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="120" sentBytesInSession="150">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60531" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="60" sentBytesInSession="96" isWeak="no" rttInMsec="245"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.3:12106" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="60" sentBytesInSession="54" isWeak="no" rttInMsec="77"/>
+			</connections>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-35-27
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="102176" receivedBytesPerSecond="12772" receivedPacketsPerSecond="35" sentBitsPerSecond="264576" sentBytesPerSecond="33072" sentPacketsPerSecond="69" receivedBytesSinceStart="545553329227" receivedPacketsSinceStart="688404751" sentBytesSinceStart="1139564225548" sentPacketsSinceStart="1051313796" runningTimeInSeconds="7002394"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15223" receivedSourcePacketsNum="383824" receivedRepairPacketsNum="40139" receivedBitsPerSecond="101341" sentBitsPerSecond="262414" receivedBytesInSession="291388123" sentBytesInSession="1181364265">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="109117" sentBitsPerSecond="277744" receivedBytesInSession="59879512" sentBytesInSession="225401600" isWeak="no" rttInMsec="687"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="12" receivedSourcePacketsNum="4" receivedRepairPacketsNum="0" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="204" sentBytesInSession="193">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60531" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="60" sentBytesInSession="96" isWeak="no" rttInMsec="245"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.3:12106" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="144" sentBytesInSession="97" isWeak="no" rttInMsec="77"/>
+			</connections>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-35-37
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="108336" receivedBytesPerSecond="13542" receivedPacketsPerSecond="47" sentBitsPerSecond="647920" sentBytesPerSecond="80990" sentPacketsPerSecond="80" receivedBytesSinceStart="545553789612" receivedPacketsSinceStart="688405431" sentBytesSinceStart="1139564914033" sentPacketsSinceStart="1051314595" runningTimeInSeconds="7002404"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15233" receivedSourcePacketsNum="384100" receivedRepairPacketsNum="40152" receivedBitsPerSecond="59960" sentBitsPerSecond="622434" receivedBytesInSession="291510421" sentBytesInSession="1182026025">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="66612" sentBitsPerSecond="636625" receivedBytesInSession="60001810" sentBytesInSession="226074258" isWeak="no" rttInMsec="667"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="22" receivedSourcePacketsNum="258" receivedRepairPacketsNum="37" receivedBitsPerSecond="47274" sentBitsPerSecond="18775" receivedBytesInSession="339672" sentBytesInSession="26902">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60531" receivedBitsPerSecond="2629" sentBitsPerSecond="601" receivedBytesInSession="145646" sentBytesInSession="5459" isWeak="no" rttInMsec="110"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.3:12106" receivedBitsPerSecond="48415" sentBitsPerSecond="21499" receivedBytesInSession="194026" sentBytesInSession="21493" isWeak="no" rttInMsec="78"/>
+			</connections>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-35-48
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="57976" receivedBytesPerSecond="7247" receivedPacketsPerSecond="40" sentBitsPerSecond="203336" sentBytesPerSecond="25417" sentPacketsPerSecond="41" receivedBytesSinceStart="545553893051" receivedPacketsSinceStart="688405867" sentBytesSinceStart="1139565507593" sentPacketsSinceStart="1051315299" runningTimeInSeconds="7002414"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15243" receivedSourcePacketsNum="384431" receivedRepairPacketsNum="40155" receivedBitsPerSecond="57401" sentBitsPerSecond="201322" receivedBytesInSession="291602237" sentBytesInSession="1182613591">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="66273" sentBitsPerSecond="210415" receivedBytesInSession="60093626" sentBytesInSession="226659106" isWeak="no" rttInMsec="682"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="32" receivedSourcePacketsNum="266" receivedRepairPacketsNum="38" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="349113" sentBytesInSession="32368">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60531" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="145680" sentBytesInSession="5491" isWeak="no" rttInMsec="96"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.3:12106" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="203433" sentBytesInSession="26877" isWeak="no" rttInMsec="77"/>
+			</connections>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-35-58
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="36704" receivedBytesPerSecond="4588" receivedPacketsPerSecond="41" sentBitsPerSecond="730920" sentBytesPerSecond="91365" sentPacketsPerSecond="72" receivedBytesSinceStart="545553999149" receivedPacketsSinceStart="688406252" sentBytesSinceStart="1139566122250" sentPacketsSinceStart="1051315959" runningTimeInSeconds="7002424"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15253" receivedSourcePacketsNum="384734" receivedRepairPacketsNum="40163" receivedBitsPerSecond="35972" sentBitsPerSecond="710716" receivedBytesInSession="291700727" sentBytesInSession="1183221377">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="44845" sentBitsPerSecond="726243" receivedBytesInSession="60192116" sentBytesInSession="227258707" isWeak="no" rttInMsec="675"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="42" receivedSourcePacketsNum="272" receivedRepairPacketsNum="38" receivedBitsPerSecond="372" sentBitsPerSecond="13055" receivedBytesInSession="356891" sentBytesInSession="39239">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60531" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="145680" sentBytesInSession="5491" isWeak="no" rttInMsec="96"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.3:12106" receivedBitsPerSecond="594" sentBitsPerSecond="13498" receivedBytesInSession="211211" sentBytesInSession="33748" isWeak="no" rttInMsec="79"/>
+			</connections>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-36-08
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="90400" receivedBytesPerSecond="11300" receivedPacketsPerSecond="29" sentBitsPerSecond="375328" sentBytesPerSecond="46916" sentPacketsPerSecond="58" receivedBytesSinceStart="545554238518" receivedPacketsSinceStart="688406640" sentBytesSinceStart="1139566612068" sentPacketsSinceStart="1051316656" runningTimeInSeconds="7002434"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15263" receivedSourcePacketsNum="385007" receivedRepairPacketsNum="40197" receivedBitsPerSecond="69487" sentBitsPerSecond="370909" receivedBytesInSession="291929890" sentBytesInSession="1183705878">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="75476" sentBitsPerSecond="383329" receivedBytesInSession="60421279" sentBytesInSession="227743263" isWeak="no" rttInMsec="935"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="52" receivedSourcePacketsNum="280" receivedRepairPacketsNum="38" receivedBitsPerSecond="20025" sentBitsPerSecond="736" receivedBytesInSession="367244" sentBytesInSession="44556">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60531" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="145680" sentBytesInSession="5491" isWeak="no" rttInMsec="96"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.3:12106" receivedBitsPerSecond="20469" sentBitsPerSecond="1180" receivedBytesInSession="221564" sentBytesInSession="39065" isWeak="no" rttInMsec="81"/>
+			</connections>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-36-18
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="66168" receivedBytesPerSecond="8271" receivedPacketsPerSecond="31" sentBitsPerSecond="285328" sentBytesPerSecond="35666" sentPacketsPerSecond="50" receivedBytesSinceStart="545554307314" receivedPacketsSinceStart="688406910" sentBytesSinceStart="1139567039965" sentPacketsSinceStart="1051317259" runningTimeInSeconds="7002444"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15273" receivedSourcePacketsNum="385194" receivedRepairPacketsNum="40201" receivedBitsPerSecond="65554" sentBitsPerSecond="282682" receivedBytesInSession="291990510" sentBytesInSession="1184128518">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="72434" sentBitsPerSecond="293779" receivedBytesInSession="60481899" sentBytesInSession="228165937" isWeak="no" rttInMsec="669"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="62" receivedSourcePacketsNum="286" receivedRepairPacketsNum="38" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="375103" sentBytesInSession="49813">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60531" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="145714" sentBytesInSession="5523" isWeak="no" rttInMsec="355"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.3:12106" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="229389" sentBytesInSession="44290" isWeak="no" rttInMsec="74"/>
+			</connections>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-36-28
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="30192" receivedBytesPerSecond="3774" receivedPacketsPerSecond="26" sentBitsPerSecond="691296" sentBytesPerSecond="86412" sentPacketsPerSecond="75" receivedBytesSinceStart="545554490657" receivedPacketsSinceStart="688407233" sentBytesSinceStart="1139567607228" sentPacketsSinceStart="1051317944" runningTimeInSeconds="7002454"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15283" receivedSourcePacketsNum="385414" receivedRepairPacketsNum="40225" receivedBitsPerSecond="28823" sentBitsPerSecond="670212" receivedBytesInSession="292165706" sentBytesInSession="1184688621">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="33926" sentBitsPerSecond="685745" receivedBytesInSession="60657095" sentBytesInSession="228736878" isWeak="no" rttInMsec="711"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="72" receivedSourcePacketsNum="296" receivedRepairPacketsNum="38" receivedBitsPerSecond="1085" sentBitsPerSecond="14597" receivedBytesInSession="383298" sentBytesInSession="56973">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60531" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="145731" sentBytesInSession="5539" isWeak="no" rttInMsec="355"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.3:12106" receivedBitsPerSecond="1751" sentBitsPerSecond="15707" receivedBytesInSession="237567" sentBytesInSession="51434" isWeak="no" rttInMsec="77"/>
+			</connections>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-36-38
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="99216" receivedBytesPerSecond="12402" receivedPacketsPerSecond="44" sentBitsPerSecond="319448" sentBytesPerSecond="39931" sentPacketsPerSecond="74" receivedBytesSinceStart="545554560133" receivedPacketsSinceStart="688407554" sentBytesSinceStart="1139568128420" sentPacketsSinceStart="1051318609" runningTimeInSeconds="7002464"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15293" receivedSourcePacketsNum="385656" receivedRepairPacketsNum="40226" receivedBitsPerSecond="78204" sentBitsPerSecond="315453" receivedBytesInSession="292224837" sentBytesInSession="1185204495">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="87516" sentBitsPerSecond="331417" receivedBytesInSession="60716226" sentBytesInSession="229252728" isWeak="no" rttInMsec="691"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="82" receivedSourcePacketsNum="304" receivedRepairPacketsNum="38" receivedBitsPerSecond="20002" sentBitsPerSecond="744" receivedBytesInSession="393595" sentBytesInSession="62291">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60531" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="145731" sentBytesInSession="5539" isWeak="no" rttInMsec="355"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.3:12106" receivedBitsPerSecond="20445" sentBitsPerSecond="1187" receivedBytesInSession="247864" sentBytesInSession="56752" isWeak="no" rttInMsec="77"/>
+			</connections>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-36-48
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="24680" receivedBytesPerSecond="3085" receivedPacketsPerSecond="27" sentBitsPerSecond="791344" sentBytesPerSecond="98918" sentPacketsPerSecond="75" receivedBytesSinceStart="545554625366" receivedPacketsSinceStart="688407876" sentBytesSinceStart="1139568973794" sentPacketsSinceStart="1051319360" runningTimeInSeconds="7002474"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15303" receivedSourcePacketsNum="385905" receivedRepairPacketsNum="40227" receivedBitsPerSecond="24445" sentBitsPerSecond="783816" receivedBytesInSession="292280299" sentBytesInSession="1186044599">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="30435" sentBitsPerSecond="800456" receivedBytesInSession="60771688" sentBytesInSession="230092905" isWeak="no" rttInMsec="703"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="92" receivedSourcePacketsNum="312" receivedRepairPacketsNum="38" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="403900" sentBytesInSession="67561">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60531" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="148259" sentBytesInSession="5586" isWeak="no" rttInMsec="74"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.3:12106" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="255641" sentBytesInSession="61975" isWeak="no" rttInMsec="76"/>
+			</connections>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>
+2020-12-01-15-36-58
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<status connected="yes" localPeerId="0x1122334455667788" bestPeerId="0x9C76E0F7B1F9103C" connectedPeersNum="2">
+		<connectedPeers>
+			<connectedPeer peerId="0x9C76E0F7B1F9103C"/>
+			<connectedPeer peerId="0x9F37E8B01B37F838"/>
+		</connectedPeers>
+	</status>
+	<statistics receivedBitsPerSecond="57192" receivedBytesPerSecond="7149" receivedPacketsPerSecond="37" sentBitsPerSecond="259936" sentBytesPerSecond="32492" sentPacketsPerSecond="69" receivedBytesSinceStart="545554690040" receivedPacketsSinceStart="688408209" sentBytesSinceStart="1139569404431" sentPacketsSinceStart="1051320108" runningTimeInSeconds="7002484"/>
+	<peers>
+		<peer peerId="0x9C76E0F7B1F9103C" connected="yes" connectedTimeInSeconds="15313" receivedSourcePacketsNum="386149" receivedRepairPacketsNum="40232" receivedBitsPerSecond="56303" sentBitsPerSecond="244526" receivedBytesInSession="292336670" sentBytesInSession="1186468364">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="1" localAddress="0.0.0.0:9102" remoteAddress="58.62.239.54:22667" receivedBitsPerSecond="64294" sentBitsPerSecond="259398" receivedBytesInSession="60828059" sentBytesInSession="230516613" isWeak="no" rttInMsec="664"/>
+			</connections>
+			<clients>
+				<client macAddress="b4:73:56:e0:38:94" realIpAddress="172.16.31.79" name="Witown"/>
+				<client macAddress="e2:04:d3:5c:f2:ea" realIpAddress="172.16.31.171"/>
+				<client macAddress="1e:3d:a2:8f:0e:c5" realIpAddress="172.16.31.232"/>
+				<client macAddress="f2:70:12:2e:8f:89" realIpAddress="172.16.31.254" name="PORSCHE_DESIGN_HUAWEI_Mat"/>
+			</clients>
+		</peer>
+		<peer peerId="0x9F37E8B01B37F838" connected="yes" connectedTimeInSeconds="102" receivedSourcePacketsNum="318" receivedRepairPacketsNum="38" receivedBitsPerSecond="372" sentBitsPerSecond="13065" receivedBytesInSession="411723" sentBytesInSession="74433">
+			<connections>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="3" localAddress="0.0.0.0:9102" remoteAddress="36.113.130.66:60531" receivedBitsPerSecond="0" sentBitsPerSecond="0" receivedBytesInSession="148259" sentBytesInSession="5586" isWeak="no" rttInMsec="74"/>
+				<connection connected="yes" enabled="yes" localSlotId="1" remoteSlotId="4" localAddress="0.0.0.0:9102" remoteAddress="122.97.179.3:12106" receivedBitsPerSecond="594" sentBitsPerSecond="13509" receivedBytesInSession="263464" sentBytesInSession="68847" isWeak="no" rttInMsec="83"/>
+			</connections>
+			<ipRanges>
+				<ipRange firstIp="192.168.0.0" lastIp="192.168.0.255"/>
+			</ipRanges>
+		</peer>
+	</peers>
+	<about version="1.0.0.20200822"/>
+</root>

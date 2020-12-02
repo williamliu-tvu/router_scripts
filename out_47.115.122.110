@@ -1,0 +1,768 @@
+2020-12-01-15-28  -  2020-12-02-15-28
+begin change 2020-12-01-15-28-45  ~  2020-12-02-15-28
+2020-12-01-15-28-45
+2 routers 81.04 days 508.00 GBytes 1061.19 GBytes 0.10 Mbps 0.59 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 3 s recv_bytes 120 send_bytes 150 recv_bps 0 send_bps 0
+slot 4 yes 122.97.179.121:31703 rtt 87 recv_bytes 60 send_bytes 54 recv_bps 0 send_bps 0
+slot 3 yes 36.113.130.66:60497 rtt 85 recv_bytes 60 send_bytes 96 recv_bps 0 send_bps 0
+
+router recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot4 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+
+2020-12-01-15-28-55
+2 routers 81.04 days 508.00 GBytes 1061.19 GBytes 0.08 Mbps 0.51 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 14 s recv_bytes 204 send_bytes 235 recv_bps 0 send_bps 0
+slot 4 yes 122.97.179.121:31703 rtt 87 recv_bytes 144 send_bytes 139 recv_bps 0 send_bps 0
+slot 3 yes 36.113.130.66:60497 rtt 85 recv_bytes 60 send_bytes 96 recv_bps 0 send_bps 0
+
+router recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot4 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+
+2020-12-01-15-29-06
+2 routers 81.04 days 508.00 GBytes 1061.19 GBytes 0.20 Mbps 0.96 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 24 s recv_bytes 204 send_bytes 235 recv_bps 0 send_bps 0
+slot 4 yes 122.97.179.121:31703 rtt 87 recv_bytes 144 send_bytes 139 recv_bps 0 send_bps 0
+slot 3 yes 36.113.130.66:60497 rtt 85 recv_bytes 60 send_bytes 96 recv_bps 0 send_bps 0
+
+router recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot4 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+
+2020-12-01-15-29-16
+2 routers 81.04 days 508.00 GBytes 1061.19 GBytes 0.19 Mbps 1.06 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 34 s recv_bytes 238 send_bytes 267 recv_bps 0 send_bps 0
+slot 4 yes 122.97.179.121:31703 rtt 71 recv_bytes 161 send_bytes 155 recv_bps 0 send_bps 0
+slot 3 yes 36.113.130.66:60497 rtt 73 recv_bytes 77 send_bytes 112 recv_bps 0 send_bps 0
+
+router recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot4 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+
+2020-12-01-15-29-26
+2 routers 81.04 days 508.00 GBytes 1061.20 GBytes 0.12 Mbps 0.98 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 45 s recv_bytes 238 send_bytes 267 recv_bps 0 send_bps 0
+slot 4 yes 122.97.179.121:31703 rtt 71 recv_bytes 161 send_bytes 155 recv_bps 0 send_bps 0
+slot 3 yes 36.113.130.66:60497 rtt 73 recv_bytes 77 send_bytes 112 recv_bps 0 send_bps 0
+
+router recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot4 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+
+2020-12-01-15-29-36
+2 routers 81.04 days 508.00 GBytes 1061.20 GBytes 0.12 Mbps 0.98 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 55 s recv_bytes 272 send_bytes 299 recv_bps 0 send_bps 0
+slot 4 yes 122.97.179.121:31703 rtt 71 recv_bytes 178 send_bytes 171 recv_bps 0 send_bps 0
+slot 3 yes 36.113.130.66:60497 rtt 73 recv_bytes 94 send_bytes 128 recv_bps 0 send_bps 0
+
+router recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot4 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+
+2020-12-01-15-29-46
+2 routers 81.04 days 508.00 GBytes 1061.20 GBytes 0.27 Mbps 0.99 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 65 s recv_bytes 306 send_bytes 331 recv_bps 0 send_bps 0
+slot 4 yes 122.97.179.121:31703 rtt 80 recv_bytes 195 send_bytes 187 recv_bps 0 send_bps 0
+slot 3 yes 36.113.130.66:60497 rtt 73 recv_bytes 111 send_bytes 144 recv_bps 0 send_bps 0
+
+router recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot4 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+
+2020-12-01-15-29-56
+2 routers 81.04 days 508.00 GBytes 1061.20 GBytes 0.19 Mbps 1.02 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 75 s recv_bytes 306 send_bytes 331 recv_bps 0 send_bps 0
+slot 4 yes 122.97.179.121:31703 rtt 80 recv_bytes 195 send_bytes 187 recv_bps 0 send_bps 0
+slot 3 yes 36.113.130.66:60497 rtt 73 recv_bytes 111 send_bytes 144 recv_bps 0 send_bps 0
+
+router recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot4 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+
+2020-12-01-15-30-06
+2 routers 81.04 days 508.00 GBytes 1061.20 GBytes 0.11 Mbps 1.06 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 85 s recv_bytes 306 send_bytes 331 recv_bps 0 send_bps 0
+slot 4 yes 122.97.179.121:31703 rtt 80 recv_bytes 195 send_bytes 187 recv_bps 0 send_bps 0
+slot 3 yes 36.113.130.66:60497 rtt 73 recv_bytes 111 send_bytes 144 recv_bps 0 send_bps 0
+
+router recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot4 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+
+2020-12-01-15-30-16
+2 routers 81.04 days 508.00 GBytes 1061.20 GBytes 0.21 Mbps 1.55 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 95 s recv_bytes 8745 send_bytes 13011 recv_bps 51090 send_bps 124532
+slot 4 yes 122.97.179.121:31703 rtt 75 recv_bytes 8490 send_bytes 25351 recv_bps 59228 send_bps 104589
+slot 3 yes 36.113.130.66:60497 rtt 78 recv_bytes 255 send_bytes 926 recv_bps 1180 send_bps 6704
+
+router recv_bytes 0.008 Mbytes send_bytes 0.012 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.000 Mbytes send_bytes 0.001 Mbytes
+slot4 recv_bytes 0.008 Mbytes send_bytes 0.024 Mbytes
+
+2020-12-01-15-30-26
+2 routers 81.04 days 508.00 GBytes 1061.20 GBytes 0.17 Mbps 1.15 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 105 s recv_bytes 83821 send_bytes 232381 recv_bps 20184 send_bps 2884
+slot 4 yes 122.97.179.121:31703 rtt 76 recv_bytes 80651 send_bytes 194054 recv_bps 21128 send_bps 4216
+slot 3 yes 36.113.130.66:60497 rtt 2138 recv_bytes 3170 send_bytes 38327 recv_bps 610 send_bps 0
+
+router recv_bytes 0.080 Mbytes send_bytes 0.222 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.003 Mbytes send_bytes 0.037 Mbytes
+slot4 recv_bytes 0.077 Mbytes send_bytes 0.185 Mbytes
+
+2020-12-01-15-30-36
+2 routers 81.04 days 508.00 GBytes 1061.20 GBytes 0.15 Mbps 1.29 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 115 s recv_bytes 109800 send_bytes 246446 recv_bps 84826 send_bps 27853
+slot 4 yes 122.97.179.121:31703 rtt 75 recv_bytes 106125 send_bytes 208119 recv_bps 88150 send_bps 30512
+slot 3 yes 36.113.130.66:60497 rtt 9039 recv_bytes 3675 send_bytes 38327 recv_bps 0 send_bps 0
+
+router recv_bytes 0.105 Mbytes send_bytes 0.235 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.004 Mbytes send_bytes 0.037 Mbytes
+slot4 recv_bytes 0.101 Mbytes send_bytes 0.198 Mbytes
+
+2020-12-01-15-30-46
+2 routers 81.04 days 508.00 GBytes 1061.21 GBytes 0.19 Mbps 1.73 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 125 s recv_bytes 186674 send_bytes 728159 recv_bps 101432 send_bps 833717
+slot 4 yes 122.97.179.121:31703 rtt 73 recv_bytes 167047 send_bytes 610313 recv_bps 94937 send_bps 842958
+slot 3 yes 36.113.130.66:60497 rtt 2314 recv_bytes 19627 send_bytes 117846 recv_bps 14227 send_bps 12854
+
+router recv_bytes 0.178 Mbytes send_bytes 0.694 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.019 Mbytes send_bytes 0.112 Mbytes
+slot4 recv_bytes 0.159 Mbytes send_bytes 0.582 Mbytes
+
+2020-12-01-15-30-56
+2 routers 81.04 days 508.00 GBytes 1061.21 GBytes 0.33 Mbps 28.20 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 135 s recv_bytes 259211 send_bytes 8052542 recv_bps 176105 send_bps 28778620
+slot 4 yes 122.97.179.121:31703 rtt 323 recv_bytes 213824 send_bytes 7838481 recv_bps 123655 send_bps 28489341
+slot 3 yes 36.113.130.66:60497 rtt 9623 recv_bytes 45387 send_bytes 355983 recv_bps 110310 send_bps 888201
+
+router recv_bytes 0.247 Mbytes send_bytes 7.680 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.043 Mbytes send_bytes 0.339 Mbytes
+slot4 recv_bytes 0.204 Mbytes send_bytes 7.475 Mbytes
+
+2020-12-01-15-31-06
+2 routers 81.04 days 508.00 GBytes 1061.25 GBytes 0.30 Mbps 24.28 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 145 s recv_bytes 402494 send_bytes 42846463 recv_bps 107355 send_bps 24078637
+slot 4 yes 122.97.179.121:31703 rtt 588 recv_bytes 308808 send_bytes 41499405 recv_bps 110341 send_bps 23694816
+slot 3 yes 36.113.130.66:60497 rtt 13285 recv_bytes 93686 send_bytes 1379866 recv_bps 24589 send_bps 881285
+
+router recv_bytes 0.384 Mbytes send_bytes 40.862 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.089 Mbytes send_bytes 1.316 Mbytes
+slot4 recv_bytes 0.295 Mbytes send_bytes 39.577 Mbytes
+
+2020-12-01-15-31-16
+2 routers 81.04 days 508.03 GBytes 1061.25 GBytes 44.74 Mbps 1.20 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 155 s recv_bytes 31880219 send_bytes 49046511 recv_bps 46070558 send_bps 254536
+slot 4 yes 122.97.179.121:31703 rtt 168 recv_bytes 26870658 send_bytes 47400377 recv_bps 41188807 send_bps 248839
+slot 3 yes 36.113.130.66:60497 rtt 18499 recv_bytes 5009561 send_bytes 1651256 recv_bps 5835251 send_bps 71789
+
+router recv_bytes 30.403 Mbytes send_bytes 46.774 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 4.777 Mbytes send_bytes 1.575 Mbytes
+slot4 recv_bytes 25.626 Mbytes send_bytes 45.205 Mbytes
+
+2020-12-01-15-31-26
+2 routers 81.04 days 508.08 GBytes 1061.26 GBytes 19.52 Mbps 0.85 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 165 s recv_bytes 88834405 send_bytes 49334536 recv_bps 20086718 send_bps 108600
+slot 4 yes 122.97.179.121:31703 rtt 137 recv_bytes 76605296 send_bytes 47623419 recv_bps 16577002 send_bps 99369
+slot 3 yes 36.113.130.66:60497 rtt 27204 recv_bytes 12229109 send_bytes 1711209 recv_bps 3926491 send_bps 38195
+
+router recv_bytes 84.719 Mbytes send_bytes 47.049 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 11.663 Mbytes send_bytes 1.632 Mbytes
+slot4 recv_bytes 73.057 Mbytes send_bytes 45.417 Mbytes
+
+2020-12-01-15-31-36
+2 routers 81.04 days 508.08 GBytes 1061.26 GBytes 0.12 Mbps 1.15 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 175 s recv_bytes 89138869 send_bytes 49742648 recv_bps 54774 send_bps 254598
+slot 4 yes 122.97.179.121:31703 rtt 74 recv_bytes 76718498 send_bytes 48067232 recv_bps 58558 send_bps 263003
+slot 3 yes 36.113.130.66:60497 rtt 37121 recv_bytes 12420371 send_bytes 1711711 recv_bps 639 send_bps 0
+
+router recv_bytes 85.009 Mbytes send_bytes 47.438 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 11.845 Mbytes send_bytes 1.632 Mbytes
+slot4 recv_bytes 73.164 Mbytes send_bytes 45.840 Mbytes
+
+2020-12-01-15-31-46
+2 routers 81.04 days 508.08 GBytes 1061.26 GBytes 0.05 Mbps 0.60 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 185 s recv_bytes 89161378 send_bytes 49832345 recv_bps 402 send_bps 0
+slot 4 yes 122.97.179.121:31703 rtt 76 recv_bytes 76740279 send_bytes 48120634 recv_bps 0 send_bps 0
+slot 3 yes 36.113.130.66:60497 rtt 45978 recv_bytes 12421099 send_bytes 1711711 recv_bps 624 send_bps 0
+
+router recv_bytes 85.031 Mbytes send_bytes 47.524 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 11.846 Mbytes send_bytes 1.632 Mbytes
+slot4 recv_bytes 73.185 Mbytes send_bytes 45.891 Mbytes
+
+2020-12-01-15-31-56
+2 routers 81.04 days 508.08 GBytes 1061.26 GBytes 0.11 Mbps 0.91 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 195 s recv_bytes 89211115 send_bytes 49887074 recv_bps 14412 send_bps 39547
+slot 4 yes 122.97.179.121:31703 rtt 75 recv_bytes 76775599 send_bytes 48174893 recv_bps 4106 send_bps 40468
+slot 3 yes 36.113.130.66:60497 rtt 55979 recv_bytes 12435516 send_bytes 1712181 recv_bps 12728 send_bps 621
+
+router recv_bytes 85.078 Mbytes send_bytes 47.576 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 11.859 Mbytes send_bytes 1.633 Mbytes
+slot4 recv_bytes 73.219 Mbytes send_bytes 45.943 Mbytes
+
+2020-12-01-15-32-07
+2 routers 81.04 days 508.08 GBytes 1061.26 GBytes 0.09 Mbps 1.00 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 205 s recv_bytes 89228296 send_bytes 49895797 recv_bps 0 send_bps 0
+slot 4 yes 122.97.179.121:31703 rtt 74 recv_bytes 76785112 send_bytes 48183310 recv_bps 0 send_bps 0
+slot 3 yes 36.113.130.66:60497 rtt 49477 recv_bytes 12443184 send_bytes 1712487 recv_bps 0 send_bps 0
+
+router recv_bytes 85.095 Mbytes send_bytes 47.584 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 11.867 Mbytes send_bytes 1.633 Mbytes
+slot4 recv_bytes 73.228 Mbytes send_bytes 45.951 Mbytes
+
+2020-12-01-15-32-17
+2 routers 81.04 days 508.08 GBytes 1061.26 GBytes 0.14 Mbps 0.62 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 215 s recv_bytes 89228380 send_bytes 49895847 recv_bps 0 send_bps 0
+slot 4 yes 122.97.179.121:31703 rtt 74 recv_bytes 76785196 send_bytes 48183360 recv_bps 0 send_bps 0
+slot 3 yes 36.113.130.66:60497 rtt 49477 recv_bytes 12443184 send_bytes 1712487 recv_bps 0 send_bps 0
+
+router recv_bytes 85.095 Mbytes send_bytes 47.584 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 11.867 Mbytes send_bytes 1.633 Mbytes
+slot4 recv_bytes 73.228 Mbytes send_bytes 45.951 Mbytes
+
+2020-12-01-15-32-27
+2 routers 81.04 days 508.08 GBytes 1061.26 GBytes 0.16 Mbps 0.65 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 225 s recv_bytes 89231824 send_bytes 49899320 recv_bps 16955 send_bps 9708
+slot 4 yes 122.97.179.121:31703 rtt 78 recv_bytes 76788436 send_bytes 48186731 recv_bps 18138 send_bps 10189
+slot 3 yes 36.113.130.66:60497 rtt 74 recv_bytes 12443388 send_bytes 1712589 recv_bps 583 send_bps 623
+
+router recv_bytes 85.098 Mbytes send_bytes 47.588 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 11.867 Mbytes send_bytes 1.633 Mbytes
+slot4 recv_bytes 73.231 Mbytes send_bytes 45.954 Mbytes
+
+2020-12-01-15-32-37
+2 routers 81.04 days 508.08 GBytes 1061.26 GBytes 0.05 Mbps 0.70 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 235 s recv_bytes 89528300 send_bytes 49917719 recv_bps 0 send_bps 0
+slot 4 yes 122.97.179.121:31703 rtt 76 recv_bytes 77084912 send_bytes 48205130 recv_bps 0 send_bps 0
+slot 3 yes 36.113.130.66:60497 rtt 74 recv_bytes 12443388 send_bytes 1712589 recv_bps 0 send_bps 0
+
+router recv_bytes 85.381 Mbytes send_bytes 47.605 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 11.867 Mbytes send_bytes 1.633 Mbytes
+slot4 recv_bytes 73.514 Mbytes send_bytes 45.972 Mbytes
+
+2020-12-01-15-32-47
+2 routers 81.04 days 508.08 GBytes 1061.27 GBytes 0.05 Mbps 1.43 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 246 s recv_bytes 89528822 send_bytes 50023870 recv_bps 1132 send_bps 837641
+slot 4 yes 122.97.179.121:31703 rtt 71 recv_bytes 77085434 send_bytes 48510219 recv_bps 1797 send_bps 856482
+slot 3 yes 36.113.130.66:60497 rtt 74 recv_bytes 12443388 send_bytes 1712589 recv_bps 0 send_bps 0
+
+router recv_bytes 85.381 Mbytes send_bytes 47.706 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 11.867 Mbytes send_bytes 1.633 Mbytes
+slot4 recv_bytes 73.514 Mbytes send_bytes 46.263 Mbytes
+
+2020-12-01-15-32-57
+2 routers 81.04 days 508.08 GBytes 1061.29 GBytes 0.12 Mbps 5.92 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 256 s recv_bytes 89660781 send_bytes 71365273 recv_bps 80344 send_bps 5651364
+slot 4 yes 122.97.179.121:31703 rtt 89 recv_bytes 77194658 send_bytes 69245169 recv_bps 89207 send_bps 5774902
+slot 3 yes 36.113.130.66:60497 rtt 5190 recv_bytes 12466123 send_bytes 2120155 recv_bps 673 send_bps 0
+
+router recv_bytes 85.507 Mbytes send_bytes 68.059 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 11.889 Mbytes send_bytes 2.022 Mbytes
+slot4 recv_bytes 73.619 Mbytes send_bytes 66.037 Mbytes
+
+2020-12-01-15-33-07
+2 routers 81.04 days 508.09 GBytes 1061.29 GBytes 0.11 Mbps 5.38 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 266 s recv_bytes 89751799 send_bytes 77541965 recv_bps 75739 send_bps 4530035
+slot 4 yes 122.97.179.121:31703 rtt 91 recv_bytes 77284934 send_bytes 75409938 recv_bps 82443 send_bps 4628771
+slot 3 yes 36.113.130.66:60497 rtt 14540 recv_bytes 12466865 send_bytes 2132027 recv_bps 1283 send_bps 0
+
+router recv_bytes 85.594 Mbytes send_bytes 73.950 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 11.889 Mbytes send_bytes 2.033 Mbytes
+slot4 recv_bytes 73.705 Mbytes send_bytes 71.917 Mbytes
+
+2020-12-01-15-33-17
+2 routers 81.04 days 508.09 GBytes 1061.29 GBytes 0.05 Mbps 0.79 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 276 s recv_bytes 89755600 send_bytes 77831145 recv_bps 403 send_bps 0
+slot 4 yes 122.97.179.121:31703 rtt 70 recv_bytes 77287671 send_bytes 75699067 recv_bps 0 send_bps 0
+slot 3 yes 36.113.130.66:60497 rtt 24486 recv_bytes 12467929 send_bytes 2132078 recv_bps 625 send_bps 0
+
+router recv_bytes 85.598 Mbytes send_bytes 74.226 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 11.890 Mbytes send_bytes 2.033 Mbytes
+slot4 recv_bytes 73.707 Mbytes send_bytes 72.192 Mbytes
+
+2020-12-01-15-33-27
+2 routers 81.04 days 508.09 GBytes 1061.30 GBytes 0.10 Mbps 0.75 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 286 s recv_bytes 89757252 send_bytes 77831806 recv_bps 1528 send_bps 395
+slot 4 yes 122.97.179.121:31703 rtt 81 recv_bytes 77288348 send_bytes 75699677 recv_bps 1552 send_bps 617
+slot 3 yes 36.113.130.66:60497 rtt 33669 recv_bytes 12468904 send_bytes 2132129 recv_bps 641 send_bps 0
+
+router recv_bytes 85.599 Mbytes send_bytes 74.226 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 11.891 Mbytes send_bytes 2.033 Mbytes
+slot4 recv_bytes 73.708 Mbytes send_bytes 72.193 Mbytes
+
+2020-12-01-15-33-37
+2 routers 81.04 days 508.09 GBytes 1061.30 GBytes 0.05 Mbps 0.43 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 296 s recv_bytes 89758180 send_bytes 77831806 recv_bps 823 send_bps 0
+slot 4 yes 122.97.179.121:31703 rtt 81 recv_bytes 77288348 send_bytes 75699677 recv_bps 0 send_bps 0
+slot 3 yes 36.113.130.66:60497 rtt 42973 recv_bytes 12469832 send_bytes 2132129 recv_bps 1266 send_bps 0
+
+router recv_bytes 85.600 Mbytes send_bytes 74.226 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 11.892 Mbytes send_bytes 2.033 Mbytes
+slot4 recv_bytes 73.708 Mbytes send_bytes 72.193 Mbytes
+
+2020-12-01-15-33-47
+2 routers 81.05 days 508.09 GBytes 1061.30 GBytes 0.04 Mbps 0.45 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 306 s recv_bytes 89759504 send_bytes 77832301 recv_bps 0 send_bps 0
+slot 4 yes 122.97.179.121:31703 rtt 72 recv_bytes 77288755 send_bytes 75700121 recv_bps 0 send_bps 0
+slot 3 yes 36.113.130.66:60497 rtt 46195 recv_bytes 12470749 send_bytes 2132180 recv_bps 0 send_bps 0
+
+router recv_bytes 85.601 Mbytes send_bytes 74.227 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 11.893 Mbytes send_bytes 2.033 Mbytes
+slot4 recv_bytes 73.708 Mbytes send_bytes 72.193 Mbytes
+
+2020-12-01-15-33-57
+2 routers 81.05 days 508.09 GBytes 1061.30 GBytes 0.03 Mbps 0.37 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 316 s recv_bytes 89759504 send_bytes 77832381 recv_bps 0 send_bps 634
+slot 4 yes 122.97.179.121:31703 rtt 72 recv_bytes 77288755 send_bytes 75700201 recv_bps 0 send_bps 1078
+slot 3 yes 36.113.130.66:60497 rtt 46195 recv_bytes 12470749 send_bytes 2132180 recv_bps 0 send_bps 0
+
+router recv_bytes 85.601 Mbytes send_bytes 74.227 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 11.893 Mbytes send_bytes 2.033 Mbytes
+slot4 recv_bytes 73.708 Mbytes send_bytes 72.193 Mbytes
+
+2020-12-01-15-34-07
+2 routers 81.05 days 508.09 GBytes 1061.30 GBytes 0.04 Mbps 0.53 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 326 s recv_bytes 89759504 send_bytes 77838045 recv_bps 0 send_bps 6342
+slot 3 yes 36.113.130.66:60497 rtt 46195 recv_bytes 12470749 send_bytes 2136228 recv_bps 0 send_bps 10782
+
+router recv_bytes 85.601 Mbytes send_bytes 74.232 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 11.893 Mbytes send_bytes 2.037 Mbytes
+slot4 recv_bytes 73.708 Mbytes send_bytes 72.193 Mbytes
+
+2020-12-01-15-34-17
+1 routers 81.05 days 508.09 GBytes 1061.30 GBytes 0.02 Mbps 0.44 Mbps 0x9C76E0F7B1F9103C
+0x9F37E8B01B37F838 no
+router recv_bytes 85.601 Mbytes send_bytes 74.232 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 11.893 Mbytes send_bytes 2.037 Mbytes
+slot4 recv_bytes 73.708 Mbytes send_bytes 72.193 Mbytes
+delta traffic
+router recv_bytes 85.601 Mbytes send_bytes 74.232 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 11.893 Mbytes send_bytes 2.037 Mbytes
+slot4 recv_bytes 73.708 Mbytes send_bytes 72.193 Mbytes
+broken statistics
+router line broken total (the timestamp when recv_bytes < last_recv_bytes) 0 0
+begin_ts  2020-12-01-15-28-45
+
+slot1 line broken total (the timestamp when recv_bytes < last_recv_bytes) 0 0
+begin_ts  2020-12-01-15-28-45
+
+slot2 line broken total (the timestamp when recv_bytes < last_recv_bytes) 0 0
+begin_ts  2020-12-01-15-28-45
+
+slot3 line broken total (the timestamp when recv_bytes < last_recv_bytes) 0 0
+begin_ts  2020-12-01-15-28-45
+
+slot4 line broken total (the timestamp when recv_bytes < last_recv_bytes) 0 0
+begin_ts  2020-12-01-15-28-45
+
+2020-12-01-15-34-17 stat reset type2 found pid but connected==no
+
+router recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot4 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+
+2020-12-01-15-34-27
+1 routers 81.05 days 508.09 GBytes 1061.30 GBytes 0.02 Mbps 0.30 Mbps 0x9C76E0F7B1F9103C
+router recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot4 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+delta traffic
+router recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot4 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+broken statistics
+router line broken total (the timestamp when recv_bytes < last_recv_bytes) 0 0
+begin_ts  2020-12-01-15-28-45
+
+slot1 line broken total (the timestamp when recv_bytes < last_recv_bytes) 0 0
+begin_ts  2020-12-01-15-28-45
+
+slot2 line broken total (the timestamp when recv_bytes < last_recv_bytes) 0 0
+begin_ts  2020-12-01-15-28-45
+
+slot3 line broken total (the timestamp when recv_bytes < last_recv_bytes) 0 0
+begin_ts  2020-12-01-15-28-45
+
+slot4 line broken total (the timestamp when recv_bytes < last_recv_bytes) 0 0
+begin_ts  2020-12-01-15-28-45
+
+2020-12-01-15-34-27 stat reset type4 pid not found 0x9F37E8B01B37F838
+
+router recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot4 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+
+2020-12-01-15-34-37
+2 routers 81.05 days 508.09 GBytes 1061.30 GBytes 0.06 Mbps 0.37 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 0 s recv_bytes 120 send_bytes 99 recv_bps 1591 send_bps 0
+router recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot4 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+delta traffic
+router recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot4 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+broken statistics
+router line broken total (the timestamp when recv_bytes < last_recv_bytes) 0 0
+begin_ts  2020-12-01-15-28-45
+
+slot1 line broken total (the timestamp when recv_bytes < last_recv_bytes) 0 0
+begin_ts  2020-12-01-15-28-45
+
+slot2 line broken total (the timestamp when recv_bytes < last_recv_bytes) 0 0
+begin_ts  2020-12-01-15-28-45
+
+slot3 line broken total (the timestamp when recv_bytes < last_recv_bytes) 0 0
+begin_ts  2020-12-01-15-28-45
+
+slot4 line broken total (the timestamp when recv_bytes < last_recv_bytes) 0 0
+begin_ts  2020-12-01-15-28-45
+
+2020-12-01-15-34-37 stat reset type3 duration<last_duration(bytes should also <) 0 326
+slot 3 yes 36.113.130.66:60503 rtt 69 recv_bytes 103 send_bytes 83 recv_bps 716 send_bps 1687
+slot 4 yes 122.97.179.3:12105 rtt 75 recv_bytes 17 send_bytes 16 recv_bps 895 send_bps 875
+
+router recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot4 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+
+2020-12-01-15-34-47
+2 routers 81.05 days 508.09 GBytes 1061.30 GBytes 0.04 Mbps 0.67 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 10 s recv_bytes 221 send_bytes 201 recv_bps 0 send_bps 0
+slot 3 yes 36.113.130.66:60503 rtt 69 recv_bytes 145 send_bytes 127 recv_bps 0 send_bps 0
+slot 4 yes 122.97.179.3:12105 rtt 75 recv_bytes 76 send_bytes 74 recv_bps 0 send_bps 0
+
+router recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot4 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+
+2020-12-01-15-34-57
+2 routers 81.05 days 508.09 GBytes 1061.30 GBytes 0.03 Mbps 0.40 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 20 s recv_bytes 221 send_bytes 201 recv_bps 0 send_bps 0
+slot 3 yes 36.113.130.66:60503 rtt 69 recv_bytes 145 send_bytes 127 recv_bps 0 send_bps 0
+slot 4 yes 122.97.179.3:12105 rtt 75 recv_bytes 76 send_bytes 74 recv_bps 0 send_bps 0
+
+router recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot4 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+
+2020-12-01-15-35-07
+2 routers 81.05 days 508.09 GBytes 1061.30 GBytes 0.08 Mbps 0.65 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 30 s recv_bytes 238 send_bytes 249 recv_bps 135 send_bps 0
+slot 3 yes 36.113.130.66:60503 rtt 101 recv_bytes 162 send_bytes 143 recv_bps 357 send_bps 349
+slot 4 yes 122.97.179.3:12105 rtt 75 recv_bytes 76 send_bytes 106 recv_bps 0 send_bps 699
+
+router recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot4 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+
+2020-12-01-15-35-17
+2 routers 81.05 days 508.09 GBytes 1061.30 GBytes 0.07 Mbps 0.43 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 2 s recv_bytes 120 send_bytes 150 recv_bps 0 send_bps 0
+router recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot4 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+delta traffic
+router recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot4 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+broken statistics
+router line broken total (the timestamp when recv_bytes < last_recv_bytes) 0 0
+begin_ts  2020-12-01-15-28-45
+
+slot1 line broken total (the timestamp when recv_bytes < last_recv_bytes) 0 0
+begin_ts  2020-12-01-15-28-45
+
+slot2 line broken total (the timestamp when recv_bytes < last_recv_bytes) 0 0
+begin_ts  2020-12-01-15-28-45
+
+slot3 line broken total (the timestamp when recv_bytes < last_recv_bytes) 0 0
+begin_ts  2020-12-01-15-28-45
+
+slot4 line broken total (the timestamp when recv_bytes < last_recv_bytes) 0 0
+begin_ts  2020-12-01-15-28-45
+
+2020-12-01-15-35-17 stat reset type3 duration<last_duration(bytes should also <) 2 30
+slot 3 yes 36.113.130.66:60531 rtt 245 recv_bytes 60 send_bytes 96 recv_bps 0 send_bps 0
+slot 4 yes 122.97.179.3:12106 rtt 77 recv_bytes 60 send_bytes 54 recv_bps 0 send_bps 0
+
+router recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot4 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+
+2020-12-01-15-35-27
+2 routers 81.05 days 508.09 GBytes 1061.30 GBytes 0.10 Mbps 0.25 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 12 s recv_bytes 204 send_bytes 193 recv_bps 0 send_bps 0
+slot 3 yes 36.113.130.66:60531 rtt 245 recv_bytes 60 send_bytes 96 recv_bps 0 send_bps 0
+slot 4 yes 122.97.179.3:12106 rtt 77 recv_bytes 144 send_bytes 97 recv_bps 0 send_bps 0
+
+router recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot4 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+
+2020-12-01-15-35-37
+2 routers 81.05 days 508.09 GBytes 1061.30 GBytes 0.10 Mbps 0.62 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 22 s recv_bytes 339672 send_bytes 26902 recv_bps 47274 send_bps 18775
+slot 3 yes 36.113.130.66:60531 rtt 110 recv_bytes 145646 send_bytes 5459 recv_bps 2629 send_bps 601
+slot 4 yes 122.97.179.3:12106 rtt 78 recv_bytes 194026 send_bytes 21493 recv_bps 48415 send_bps 21499
+
+router recv_bytes 0.324 Mbytes send_bytes 0.026 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.139 Mbytes send_bytes 0.005 Mbytes
+slot4 recv_bytes 0.185 Mbytes send_bytes 0.020 Mbytes
+
+2020-12-01-15-35-48
+2 routers 81.05 days 508.09 GBytes 1061.30 GBytes 0.06 Mbps 0.19 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 32 s recv_bytes 349113 send_bytes 32368 recv_bps 0 send_bps 0
+slot 3 yes 36.113.130.66:60531 rtt 96 recv_bytes 145680 send_bytes 5491 recv_bps 0 send_bps 0
+slot 4 yes 122.97.179.3:12106 rtt 77 recv_bytes 203433 send_bytes 26877 recv_bps 0 send_bps 0
+
+router recv_bytes 0.333 Mbytes send_bytes 0.031 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.139 Mbytes send_bytes 0.005 Mbytes
+slot4 recv_bytes 0.194 Mbytes send_bytes 0.026 Mbytes
+
+2020-12-01-15-35-58
+2 routers 81.05 days 508.09 GBytes 1061.30 GBytes 0.04 Mbps 0.70 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 42 s recv_bytes 356891 send_bytes 39239 recv_bps 372 send_bps 13055
+slot 3 yes 36.113.130.66:60531 rtt 96 recv_bytes 145680 send_bytes 5491 recv_bps 0 send_bps 0
+slot 4 yes 122.97.179.3:12106 rtt 79 recv_bytes 211211 send_bytes 33748 recv_bps 594 send_bps 13498
+
+router recv_bytes 0.340 Mbytes send_bytes 0.037 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.139 Mbytes send_bytes 0.005 Mbytes
+slot4 recv_bytes 0.201 Mbytes send_bytes 0.032 Mbytes
+
+2020-12-01-15-36-08
+2 routers 81.05 days 508.09 GBytes 1061.30 GBytes 0.09 Mbps 0.36 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 52 s recv_bytes 367244 send_bytes 44556 recv_bps 20025 send_bps 736
+slot 3 yes 36.113.130.66:60531 rtt 96 recv_bytes 145680 send_bytes 5491 recv_bps 0 send_bps 0
+slot 4 yes 122.97.179.3:12106 rtt 81 recv_bytes 221564 send_bytes 39065 recv_bps 20469 send_bps 1180
+
+router recv_bytes 0.350 Mbytes send_bytes 0.042 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.139 Mbytes send_bytes 0.005 Mbytes
+slot4 recv_bytes 0.211 Mbytes send_bytes 0.037 Mbytes
+
+2020-12-01-15-36-18
+2 routers 81.05 days 508.09 GBytes 1061.30 GBytes 0.06 Mbps 0.27 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 62 s recv_bytes 375103 send_bytes 49813 recv_bps 0 send_bps 0
+slot 3 yes 36.113.130.66:60531 rtt 355 recv_bytes 145714 send_bytes 5523 recv_bps 0 send_bps 0
+slot 4 yes 122.97.179.3:12106 rtt 74 recv_bytes 229389 send_bytes 44290 recv_bps 0 send_bps 0
+
+router recv_bytes 0.358 Mbytes send_bytes 0.048 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.139 Mbytes send_bytes 0.005 Mbytes
+slot4 recv_bytes 0.219 Mbytes send_bytes 0.042 Mbytes
+
+2020-12-01-15-36-28
+2 routers 81.05 days 508.09 GBytes 1061.31 GBytes 0.03 Mbps 0.66 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 72 s recv_bytes 383298 send_bytes 56973 recv_bps 1085 send_bps 14597
+slot 3 yes 36.113.130.66:60531 rtt 355 recv_bytes 145731 send_bytes 5539 recv_bps 0 send_bps 0
+slot 4 yes 122.97.179.3:12106 rtt 77 recv_bytes 237567 send_bytes 51434 recv_bps 1751 send_bps 15707
+
+router recv_bytes 0.366 Mbytes send_bytes 0.054 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.139 Mbytes send_bytes 0.005 Mbytes
+slot4 recv_bytes 0.227 Mbytes send_bytes 0.049 Mbytes
+
+2020-12-01-15-36-38
+2 routers 81.05 days 508.09 GBytes 1061.31 GBytes 0.09 Mbps 0.30 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 82 s recv_bytes 393595 send_bytes 62291 recv_bps 20002 send_bps 744
+slot 3 yes 36.113.130.66:60531 rtt 355 recv_bytes 145731 send_bytes 5539 recv_bps 0 send_bps 0
+slot 4 yes 122.97.179.3:12106 rtt 77 recv_bytes 247864 send_bytes 56752 recv_bps 20445 send_bps 1187
+
+router recv_bytes 0.375 Mbytes send_bytes 0.059 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.139 Mbytes send_bytes 0.005 Mbytes
+slot4 recv_bytes 0.236 Mbytes send_bytes 0.054 Mbytes
+
+2020-12-01-15-36-48
+2 routers 81.05 days 508.09 GBytes 1061.31 GBytes 0.02 Mbps 0.75 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 92 s recv_bytes 403900 send_bytes 67561 recv_bps 0 send_bps 0
+slot 3 yes 36.113.130.66:60531 rtt 74 recv_bytes 148259 send_bytes 5586 recv_bps 0 send_bps 0
+slot 4 yes 122.97.179.3:12106 rtt 76 recv_bytes 255641 send_bytes 61975 recv_bps 0 send_bps 0
+
+router recv_bytes 0.385 Mbytes send_bytes 0.064 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.141 Mbytes send_bytes 0.005 Mbytes
+slot4 recv_bytes 0.244 Mbytes send_bytes 0.059 Mbytes
+
+2020-12-01-15-36-58
+2 routers 81.05 days 508.09 GBytes 1061.31 GBytes 0.05 Mbps 0.25 Mbps 0x9C76E0F7B1F9103C 0x9F37E8B01B37F838 
+0x9F37E8B01B37F838 yes 102 s recv_bytes 411723 send_bytes 74433 recv_bps 372 send_bps 13065
+slot 3 yes 36.113.130.66:60531 rtt 74 recv_bytes 148259 send_bytes 5586 recv_bps 0 send_bps 0
+slot 4 yes 122.97.179.3:12106 rtt 83 recv_bytes 263464 send_bytes 68847 recv_bps 594 send_bps 13509
+
+router recv_bytes 0.393 Mbytes send_bytes 0.071 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.141 Mbytes send_bytes 0.005 Mbytes
+slot4 recv_bytes 0.251 Mbytes send_bytes 0.066 Mbytes
+
+
+router recv_bytes 0.393 Mbytes send_bytes 0.071 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.141 Mbytes send_bytes 0.005 Mbytes
+slot4 recv_bytes 0.251 Mbytes send_bytes 0.066 Mbytes
+
+delta traffic
+router recv_bytes 0.393 Mbytes send_bytes 0.071 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 0.141 Mbytes send_bytes 0.005 Mbytes
+slot4 recv_bytes 0.251 Mbytes send_bytes 0.066 Mbytes
+alldelta traffic
+router recv_bytes 85.994 Mbytes send_bytes 74.303 Mbytes
+slot1 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot2 recv_bytes 0.000 Mbytes send_bytes 0.000 Mbytes
+slot3 recv_bytes 12.035 Mbytes send_bytes 2.043 Mbytes
+slot4 recv_bytes 73.960 Mbytes send_bytes 72.259 Mbytes
+broken statistics
+router line broken total (the timestamp when recv_bytes < last_recv_bytes) 0 0
+begin_ts  2020-12-01-15-28-45
+
+slot1 line broken total (the timestamp when recv_bytes < last_recv_bytes) 0 0
+begin_ts  2020-12-01-15-28-45
+
+slot2 line broken total (the timestamp when recv_bytes < last_recv_bytes) 0 0
+begin_ts  2020-12-01-15-28-45
+
+slot3 line broken total (the timestamp when recv_bytes < last_recv_bytes) 0 0
+begin_ts  2020-12-01-15-28-45
+
+slot4 line broken total (the timestamp when recv_bytes < last_recv_bytes) 0 0
+begin_ts  2020-12-01-15-28-45
+
+
+Router line broken statistics:
+2020-12-01 15:28:45  -  2020-12-01 15:34:17 0:05:32 begin , connected==no
+2020-12-01 15:34:17  -  2020-12-01 15:34:27 0:00:10 connected==no , pid not found
+2020-12-01 15:34:27  -  2020-12-01 15:34:37 0:00:10 pid not found , duration<last_duration
+2020-12-01 15:34:37  -  2020-12-01 15:35:17 0:00:40 duration<last_duration , duration<last_duration
+
+2020-12-01 15:28:45  -  2020-12-01 15:34:17 0:05:32 begin connected==no
+2020-12-01 15:34:17  -  2020-12-01 15:34:37 0:00:20 connected==no duration<last_duration
+2020-12-01 15:34:37  -  2020-12-01 15:35:17 0:00:40 duration<last_duration duration<last_duration
+
+draw
+len  50 50 50 50 50
+len  50 50 50 50 50
+download accumulate bytes max_y 75700201
+len  50 50 50 50 50
+len  50 50 50 50 50
+
+stat_ftp original ts, recv, send 50 48 48
+stat_ftp delta ts, recv, send 50 48 48
+recv_sum (upload traffic)
+2020-12-01-15-31-06 2 84.34 Mbytes 33.73 Mbps
+send_sum (download traffic)
+2020-12-01-15-30-46 3 46.08 Mbytes 12.29 Mbps
+2020-12-01-15-32-47 2 26.24 Mbytes 10.50 Mbps
